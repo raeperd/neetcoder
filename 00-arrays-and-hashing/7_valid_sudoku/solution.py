@@ -1,5 +1,6 @@
 from typing import List
 
 
-def isValidSudoku(board: List[List[str]]) -> bool:
-    return False
+class Solution:
+    def isValidSudoku(self, board: List[List[str]]) -> bool:
+        return False

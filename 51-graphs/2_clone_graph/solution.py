@@ -7,5 +7,6 @@ class Node:
         self.neighbors = neighbors if neighbors is not None else []
 
 
-def clone_graph(node: Optional[Node]) -> Optional[Node]:
-    return None
+class Solution:
+    def cloneGraph(self, node: Optional[Node]) -> Optional[Node]:
+        return None

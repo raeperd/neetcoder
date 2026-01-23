@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import canAttendMeetings
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import canAttendMeetings
     ],
 )
 def test_can_attend_meetings(intervals: list[list[int]], expected: bool):
-    assert canAttendMeetings(intervals) == expected
+    assert Solution().canAttendMeetings(intervals) == expected

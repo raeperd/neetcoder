@@ -1,5 +1,6 @@
 from typing import List
 
 
-def count_components(n: int, edges: List[List[int]]) -> int:
-    return 0
+class Solution:
+    def countComponents(self, n: int, edges: List[List[int]]) -> int:
+        return 0

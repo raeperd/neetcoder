@@ -1,6 +1,6 @@
 from typing import Optional
 
-from .solution import TreeNode, max_path_sum
+from .solution import Solution, TreeNode
 
 
 def build_tree(values: list) -> Optional[TreeNode]:
@@ -24,9 +24,9 @@ def build_tree(values: list) -> Optional[TreeNode]:
 
 def test_max_path_sum_example1():
     root = build_tree([1, 2, 3])
-    assert max_path_sum(root) == 6
+    assert Solution().maxPathSum(root) == 6
 
 
 def test_max_path_sum_example2():
     root = build_tree([-10, 9, 20, None, None, 15, 7])
-    assert max_path_sum(root) == 42
+    assert Solution().maxPathSum(root) == 42

@@ -1,5 +1,6 @@
 from typing import List
 
 
-def mergeTriplets(triplets: List[List[int]], target: List[int]) -> bool:
-    return False
+class Solution:
+    def mergeTriplets(self, triplets: List[List[int]], target: List[int]) -> bool:
+        return False

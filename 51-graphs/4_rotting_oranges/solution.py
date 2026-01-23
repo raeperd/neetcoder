@@ -1,5 +1,6 @@
 from typing import List
 
 
-def oranges_rotting(grid: List[List[int]]) -> int:
-    return 0
+class Solution:
+    def orangesRotting(self, grid: List[List[int]]) -> int:
+        return 0

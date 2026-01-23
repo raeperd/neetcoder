@@ -1,5 +1,6 @@
 from typing import List
 
 
-def containsDuplicate(nums: List[int]) -> bool:
-    return False
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        return False

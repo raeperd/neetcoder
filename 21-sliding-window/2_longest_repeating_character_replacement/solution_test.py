@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import characterReplacement
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import characterReplacement
     ],
 )
 def test_characterReplacement(s, k, expected):
-    assert characterReplacement(s, k) == expected
+    assert Solution().characterReplacement(s, k) == expected

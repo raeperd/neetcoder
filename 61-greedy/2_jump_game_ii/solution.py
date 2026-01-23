@@ -1,5 +1,6 @@
 from typing import List
 
 
-def jump(nums: List[int]) -> int:
-    return 0
+class Solution:
+    def jump(self, nums: List[int]) -> int:
+        return 0

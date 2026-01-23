@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import findCheapestPrice
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -12,4 +12,4 @@ from .solution import findCheapestPrice
     ],
 )
 def test_find_cheapest_price(n: int, flights: list[list[int]], src: int, dst: int, k: int, expected: int):
-    assert findCheapestPrice(n, flights, src, dst, k) == expected
+    assert Solution().findCheapestPrice(n, flights, src, dst, k) == expected

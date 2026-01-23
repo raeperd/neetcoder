@@ -1,5 +1,6 @@
 from typing import List
 
 
-def length_of_lis(nums: List[int]) -> int:
-    return 0
+class Solution:
+    def lengthOfLIS(self, nums: List[int]) -> int:
+        return 0

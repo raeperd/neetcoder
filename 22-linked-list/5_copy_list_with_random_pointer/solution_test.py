@@ -1,4 +1,4 @@
-from .solution import Node, copyRandomList
+from .solution import Node, Solution
 
 
 def create_random_list(data):
@@ -32,17 +32,17 @@ def list_to_data(head):
 
 def test_copy_random_list_1():
     head = create_random_list([[7, None], [13, 0], [11, 4], [10, 2], [1, 0]])
-    result = copyRandomList(head)
+    result = Solution().copyRandomList(head)
     assert list_to_data(result) == [[7, None], [13, 0], [11, 4], [10, 2], [1, 0]]
 
 
 def test_copy_random_list_2():
     head = create_random_list([[1, 1], [2, 1]])
-    result = copyRandomList(head)
+    result = Solution().copyRandomList(head)
     assert list_to_data(result) == [[1, 1], [2, 1]]
 
 
 def test_copy_random_list_3():
     head = create_random_list([[3, None], [3, 0], [3, None]])
-    result = copyRandomList(head)
+    result = Solution().copyRandomList(head)
     assert list_to_data(result) == [[3, None], [3, 0], [3, None]]

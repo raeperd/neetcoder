@@ -1,5 +1,6 @@
 from typing import List
 
 
-def find_kth_largest(nums: List[int], k: int) -> int:
-    return 0
+class Solution:
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        return 0

@@ -1,5 +1,6 @@
 from typing import List
 
 
-def max_product(nums: List[int]) -> int:
-    return 0
+class Solution:
+    def maxProduct(self, nums: List[int]) -> int:
+        return 0

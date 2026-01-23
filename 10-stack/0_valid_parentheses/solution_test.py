@@ -1,21 +1,21 @@
-from .solution import isValid
+from .solution import Solution
 
 
 def test_example_1():
-    assert isValid("()") == True
+    assert Solution().isValid("()") == True
 
 
 def test_example_2():
-    assert isValid("()[]{}") == True
+    assert Solution().isValid("()[]{}") == True
 
 
 def test_example_3():
-    assert isValid("(]") == False
+    assert Solution().isValid("(]") == False
 
 
 def test_example_4():
-    assert isValid("([])") == True
+    assert Solution().isValid("([])") == True
 
 
 def test_example_5():
-    assert isValid("([)]") == False
+    assert Solution().isValid("([)]") == False

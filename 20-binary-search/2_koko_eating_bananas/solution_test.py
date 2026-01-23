@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import minEatingSpeed
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -12,4 +12,4 @@ from .solution import minEatingSpeed
     ],
 )
 def test_minEatingSpeed(piles, h, expected):
-    assert minEatingSpeed(piles, h) == expected
+    assert Solution().minEatingSpeed(piles, h) == expected

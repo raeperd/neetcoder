@@ -1,5 +1,6 @@
 from typing import List
 
 
-def find_order(numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-    return []
+class Solution:
+    def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
+        return []

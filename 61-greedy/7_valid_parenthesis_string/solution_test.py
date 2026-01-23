@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import checkValidString
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -12,4 +12,4 @@ from .solution import checkValidString
     ],
 )
 def test_check_valid_string(s: str, expected: bool):
-    assert checkValidString(s) == expected
+    assert Solution().checkValidString(s) == expected

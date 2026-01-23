@@ -1,5 +1,6 @@
 from typing import List
 
 
-def exist(board: List[List[str]], word: str) -> bool:
-    return False
+class Solution:
+    def exist(self, board: List[List[str]], word: str) -> bool:
+        return False

@@ -8,5 +8,6 @@ class TreeNode:
         self.right = right
 
 
-def is_balanced(root: Optional[TreeNode]) -> bool:
-    return False
+class Solution:
+    def isBalanced(self, root: Optional[TreeNode]) -> bool:
+        return False

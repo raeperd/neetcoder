@@ -1,6 +1,6 @@
 from typing import Optional
 
-from .solution import TreeNode, is_same_tree
+from .solution import Solution, TreeNode
 
 
 def build_tree(values: list) -> Optional[TreeNode]:
@@ -25,16 +25,16 @@ def build_tree(values: list) -> Optional[TreeNode]:
 def test_is_same_tree_example1():
     p = build_tree([1, 2, 3])
     q = build_tree([1, 2, 3])
-    assert is_same_tree(p, q) == True
+    assert Solution().isSameTree(p, q) == True
 
 
 def test_is_same_tree_example2():
     p = build_tree([1, 2])
     q = build_tree([1, None, 2])
-    assert is_same_tree(p, q) == False
+    assert Solution().isSameTree(p, q) == False
 
 
 def test_is_same_tree_example3():
     p = build_tree([1, 2, 1])
     q = build_tree([1, 1, 2])
-    assert is_same_tree(p, q) == False
+    assert Solution().isSameTree(p, q) == False

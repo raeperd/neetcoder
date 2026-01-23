@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import minInterval
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import minInterval
     ],
 )
 def test_min_interval(intervals: list[list[int]], queries: list[int], expected: list[int]):
-    assert minInterval(intervals, queries) == expected
+    assert Solution().minInterval(intervals, queries) == expected

@@ -1,5 +1,6 @@
 from typing import List
 
 
-def swimInWater(grid: List[List[int]]) -> int:
-    return 0
+class Solution:
+    def swimInWater(self, grid: List[List[int]]) -> int:
+        return 0

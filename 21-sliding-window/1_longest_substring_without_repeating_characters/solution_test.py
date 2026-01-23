@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import lengthOfLongestSubstring
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -12,4 +12,4 @@ from .solution import lengthOfLongestSubstring
     ],
 )
 def test_lengthOfLongestSubstring(s, expected):
-    assert lengthOfLongestSubstring(s) == expected
+    assert Solution().lengthOfLongestSubstring(s) == expected

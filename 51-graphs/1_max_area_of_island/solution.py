@@ -1,5 +1,6 @@
 from typing import List
 
 
-def max_area_of_island(grid: List[List[int]]) -> int:
-    return 0
+class Solution:
+    def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
+        return 0

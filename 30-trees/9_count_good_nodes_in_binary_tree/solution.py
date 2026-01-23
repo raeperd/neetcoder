@@ -5,5 +5,6 @@ class TreeNode:
         self.right = right
 
 
-def good_nodes(root: TreeNode) -> int:
-    return 0
+class Solution:
+    def goodNodes(self, root: TreeNode) -> int:
+        return 0

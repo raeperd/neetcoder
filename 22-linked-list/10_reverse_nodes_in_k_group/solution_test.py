@@ -1,4 +1,4 @@
-from .solution import ListNode, reverseKGroup
+from .solution import ListNode, Solution
 
 
 def list_to_array(head):
@@ -22,11 +22,11 @@ def array_to_list(arr):
 
 def test_reverse_k_group_1():
     head = array_to_list([1, 2, 3, 4, 5])
-    result = reverseKGroup(head, 2)
+    result = Solution().reverseKGroup(head, 2)
     assert list_to_array(result) == [2, 1, 4, 3, 5]
 
 
 def test_reverse_k_group_2():
     head = array_to_list([1, 2, 3, 4, 5])
-    result = reverseKGroup(head, 3)
+    result = Solution().reverseKGroup(head, 3)
     assert list_to_array(result) == [3, 2, 1, 4, 5]

@@ -1,4 +1,4 @@
-from .solution import isValidSudoku
+from .solution import Solution
 
 
 def test_example_1():
@@ -13,7 +13,7 @@ def test_example_1():
         [".", ".", ".", "4", "1", "9", ".", ".", "5"],
         [".", ".", ".", ".", "8", ".", ".", "7", "9"],
     ]
-    assert isValidSudoku(board) == True
+    assert Solution().isValidSudoku(board) == True
 
 
 def test_example_2():
@@ -28,4 +28,4 @@ def test_example_2():
         [".", ".", ".", "4", "1", "9", ".", ".", "5"],
         [".", ".", ".", ".", "8", ".", ".", "7", "9"],
     ]
-    assert isValidSudoku(board) == False
+    assert Solution().isValidSudoku(board) == False

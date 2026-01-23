@@ -1,5 +1,6 @@
 from typing import List
 
 
-def count_bits(n: int) -> List[int]:
-    return []
+class Solution:
+    def countBits(self, n: int) -> List[int]:
+        return []

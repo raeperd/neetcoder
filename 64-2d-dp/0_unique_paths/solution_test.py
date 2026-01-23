@@ -1,9 +1,9 @@
-from .solution import unique_paths
+from .solution import Solution
 
 
 def test_example_1():
-    assert unique_paths(3, 7) == 28
+    assert Solution().uniquePaths(3, 7) == 28
 
 
 def test_example_2():
-    assert unique_paths(3, 2) == 3
+    assert Solution().uniquePaths(3, 2) == 3

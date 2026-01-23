@@ -1,9 +1,9 @@
-from .solution import max_coins
+from .solution import Solution
 
 
 def test_example_1():
-    assert max_coins([3, 1, 5, 8]) == 167
+    assert Solution().maxCoins([3, 1, 5, 8]) == 167
 
 
 def test_example_2():
-    assert max_coins([1, 5]) == 10
+    assert Solution().maxCoins([1, 5]) == 10

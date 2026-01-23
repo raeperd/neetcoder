@@ -1,5 +1,6 @@
 from typing import List
 
 
-def pacific_atlantic(heights: List[List[int]]) -> List[List[int]]:
-    return []
+class Solution:
+    def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
+        return []

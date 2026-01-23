@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import minMeetingRooms
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import minMeetingRooms
     ],
 )
 def test_min_meeting_rooms(intervals: list[list[int]], expected: int):
-    assert minMeetingRooms(intervals) == expected
+    assert Solution().minMeetingRooms(intervals) == expected

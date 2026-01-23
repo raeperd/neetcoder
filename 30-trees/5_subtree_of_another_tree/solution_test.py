@@ -1,6 +1,6 @@
 from typing import Optional
 
-from .solution import TreeNode, is_subtree
+from .solution import Solution, TreeNode
 
 
 def build_tree(values: list) -> Optional[TreeNode]:
@@ -25,10 +25,10 @@ def build_tree(values: list) -> Optional[TreeNode]:
 def test_is_subtree_example1():
     root = build_tree([3, 4, 5, 1, 2])
     sub_root = build_tree([4, 1, 2])
-    assert is_subtree(root, sub_root) == True
+    assert Solution().isSubtree(root, sub_root) == True
 
 
 def test_is_subtree_example2():
     root = build_tree([3, 4, 5, 1, 2, None, None, None, None, 0])
     sub_root = build_tree([4, 1, 2])
-    assert is_subtree(root, sub_root) == False
+    assert Solution().isSubtree(root, sub_root) == False

@@ -1,5 +1,6 @@
 from typing import List
 
 
-def maxArea(height: List[int]) -> int:
-    return 0
+class Solution:
+    def maxArea(self, height: List[int]) -> int:
+        return 0

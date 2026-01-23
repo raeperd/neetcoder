@@ -1,5 +1,6 @@
 from typing import List
 
 
-def evalRPN(tokens: List[str]) -> int:
-    return 0
+class Solution:
+    def evalRPN(self, tokens: List[str]) -> int:
+        return 0

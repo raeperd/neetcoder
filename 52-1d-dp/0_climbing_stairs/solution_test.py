@@ -1,9 +1,9 @@
-from .solution import climb_stairs
+from .solution import Solution
 
 
 def test_example_1():
-    assert climb_stairs(2) == 2
+    assert Solution().climbStairs(2) == 2
 
 
 def test_example_2():
-    assert climb_stairs(3) == 3
+    assert Solution().climbStairs(3) == 3

@@ -8,5 +8,6 @@ class Node:
         self.random = random
 
 
-def copyRandomList(head: Optional[Node]) -> Optional[Node]:
-    return None
+class Solution:
+    def copyRandomList(self, head: Optional[Node]) -> Optional[Node]:
+        return None

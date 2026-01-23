@@ -1,4 +1,4 @@
-from .solution import ListNode, hasCycle
+from .solution import ListNode, Solution
 
 
 def create_cycle_list(arr, pos):
@@ -21,14 +21,14 @@ def create_cycle_list(arr, pos):
 
 def test_linked_list_cycle_1():
     head = create_cycle_list([3, 2, 0, -4], 1)
-    assert hasCycle(head) == True
+    assert Solution().hasCycle(head) == True
 
 
 def test_linked_list_cycle_2():
     head = create_cycle_list([1, 2], 0)
-    assert hasCycle(head) == True
+    assert Solution().hasCycle(head) == True
 
 
 def test_linked_list_cycle_3():
     head = create_cycle_list([1], -1)
-    assert hasCycle(head) == False
+    assert Solution().hasCycle(head) == False

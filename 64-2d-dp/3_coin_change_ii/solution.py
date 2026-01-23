@@ -1,5 +1,6 @@
 from typing import List
 
 
-def change(amount: int, coins: List[int]) -> int:
-    return 0
+class Solution:
+    def change(self, amount: int, coins: List[int]) -> int:
+        return 0

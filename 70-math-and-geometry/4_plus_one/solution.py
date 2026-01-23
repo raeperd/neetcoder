@@ -1,5 +1,6 @@
 from typing import List
 
 
-def plus_one(digits: List[int]) -> List[int]:
-    return []
+class Solution:
+    def plusOne(self, digits: List[int]) -> List[int]:
+        return []

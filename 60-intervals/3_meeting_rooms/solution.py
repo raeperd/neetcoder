@@ -1,5 +1,6 @@
 from typing import List
 
 
-def canAttendMeetings(intervals: List[List[int]]) -> bool:
-    return False
+class Solution:
+    def canAttendMeetings(self, intervals: List[List[int]]) -> bool:
+        return False

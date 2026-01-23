@@ -7,5 +7,6 @@ class ListNode:
         self.next = next
 
 
-def hasCycle(head: Optional[ListNode]) -> bool:
-    return False
+class Solution:
+    def hasCycle(self, head: Optional[ListNode]) -> bool:
+        return False

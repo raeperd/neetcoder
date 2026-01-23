@@ -1,2 +1,3 @@
-def get_sum(a: int, b: int) -> int:
-    return 0
+class Solution:
+    def getSum(self, a: int, b: int) -> int:
+        return 0

@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import findMin
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -12,4 +12,4 @@ from .solution import findMin
     ],
 )
 def test_findMin(nums, expected):
-    assert findMin(nums) == expected
+    assert Solution().findMin(nums) == expected

@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import alienOrder
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -12,4 +12,4 @@ from .solution import alienOrder
     ],
 )
 def test_alien_order(words: list[str], expected: str):
-    assert alienOrder(words) == expected
+    assert Solution().alienOrder(words) == expected

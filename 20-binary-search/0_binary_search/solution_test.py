@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import search
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import search
     ],
 )
 def test_search(nums, target, expected):
-    assert search(nums, target) == expected
+    assert Solution().search(nums, target) == expected

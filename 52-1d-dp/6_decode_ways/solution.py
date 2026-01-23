@@ -1,2 +1,3 @@
-def num_decodings(s: str) -> int:
-    return 0
+class Solution:
+    def numDecodings(self, s: str) -> int:
+        return 0

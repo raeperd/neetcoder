@@ -1,5 +1,6 @@
 from typing import List
 
 
-def generate_parenthesis(n: int) -> List[str]:
-    return []
+class Solution:
+    def generateParenthesis(self, n: int) -> List[str]:
+        return []

@@ -1,5 +1,6 @@
 from typing import List
 
 
-def findMin(nums: List[int]) -> int:
-    return 0
+class Solution:
+    def findMin(self, nums: List[int]) -> int:
+        return 0

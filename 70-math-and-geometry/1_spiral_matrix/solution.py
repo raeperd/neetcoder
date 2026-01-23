@@ -1,5 +1,6 @@
 from typing import List
 
 
-def spiral_order(matrix: List[List[int]]) -> List[int]:
-    return []
+class Solution:
+    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
+        return []

@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import mergeTriplets
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -12,4 +12,4 @@ from .solution import mergeTriplets
     ],
 )
 def test_merge_triplets(triplets: list[list[int]], target: list[int], expected: bool):
-    assert mergeTriplets(triplets, target) == expected
+    assert Solution().mergeTriplets(triplets, target) == expected

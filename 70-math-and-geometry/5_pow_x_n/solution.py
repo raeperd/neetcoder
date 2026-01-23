@@ -1,2 +1,3 @@
-def my_pow(x: float, n: int) -> float:
-    return 0.0
+class Solution:
+    def myPow(self, x: float, n: int) -> float:
+        return 0.0

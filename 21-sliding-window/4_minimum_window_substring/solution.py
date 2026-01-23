@@ -1,2 +1,3 @@
-def minWindow(s: str, t: str) -> str:
-    return ""
+class Solution:
+    def minWindow(self, s: str, t: str) -> str:
+        return ""

@@ -8,5 +8,6 @@ class TreeNode:
         self.right = right
 
 
-def build_tree(preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
-    return None
+class Solution:
+    def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
+        return None

@@ -8,5 +8,6 @@ class TreeNode:
         self.right = right
 
 
-def invert_tree(root: Optional[TreeNode]) -> Optional[TreeNode]:
-    return None
+class Solution:
+    def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+        return None

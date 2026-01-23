@@ -1,5 +1,6 @@
 from typing import List
 
 
-def rotate(matrix: List[List[int]]) -> None:
-    pass
+class Solution:
+    def rotate(self, matrix: List[List[int]]) -> None:
+        pass

@@ -8,5 +8,6 @@ class TreeNode:
         self.right = right
 
 
-def diameter_of_binary_tree(root: Optional[TreeNode]) -> int:
-    return 0
+class Solution:
+    def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+        return 0

@@ -1,4 +1,4 @@
-from .solution import ListNode, reorderList
+from .solution import ListNode, Solution
 
 
 def list_to_array(head):
@@ -22,11 +22,11 @@ def array_to_list(arr):
 
 def test_reorder_list_1():
     head = array_to_list([1, 2, 3, 4])
-    reorderList(head)
+    Solution().reorderList(head)
     assert list_to_array(head) == [1, 4, 2, 3]
 
 
 def test_reorder_list_2():
     head = array_to_list([1, 2, 3, 4, 5])
-    reorderList(head)
+    Solution().reorderList(head)
     assert list_to_array(head) == [1, 5, 2, 4, 3]

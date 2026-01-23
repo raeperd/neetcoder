@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import maxSubArray
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -12,4 +12,4 @@ from .solution import maxSubArray
     ],
 )
 def test_max_sub_array(nums: list[int], expected: int):
-    assert maxSubArray(nums) == expected
+    assert Solution().maxSubArray(nums) == expected

@@ -1,2 +1,3 @@
-def checkValidString(s: str) -> bool:
-    return False
+class Solution:
+    def checkValidString(self, s: str) -> bool:
+        return False

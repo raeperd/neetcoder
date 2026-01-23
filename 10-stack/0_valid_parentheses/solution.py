@@ -1,2 +1,3 @@
-def isValid(s: str) -> bool:
-    return False
+class Solution:
+    def isValid(self, s: str) -> bool:
+        return False

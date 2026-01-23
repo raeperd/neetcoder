@@ -1,4 +1,4 @@
-from .solution import ListNode, mergeKLists
+from .solution import ListNode, Solution
 
 
 def list_to_array(head):
@@ -26,17 +26,17 @@ def test_merge_k_sorted_lists_1():
         array_to_list([1, 3, 4]),
         array_to_list([2, 6]),
     ]
-    result = mergeKLists(lists)
+    result = Solution().mergeKLists(lists)
     assert list_to_array(result) == [1, 1, 2, 3, 4, 4, 5, 6]
 
 
 def test_merge_k_sorted_lists_2():
     lists = []
-    result = mergeKLists(lists)
+    result = Solution().mergeKLists(lists)
     assert list_to_array(result) == []
 
 
 def test_merge_k_sorted_lists_3():
     lists = [array_to_list([])]
-    result = mergeKLists(lists)
+    result = Solution().mergeKLists(lists)
     assert list_to_array(result) == []

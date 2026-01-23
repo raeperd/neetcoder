@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import findMedianSortedArrays
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import findMedianSortedArrays
     ],
 )
 def test_findMedianSortedArrays(nums1, nums2, expected):
-    assert findMedianSortedArrays(nums1, nums2) == expected
+    assert Solution().findMedianSortedArrays(nums1, nums2) == expected

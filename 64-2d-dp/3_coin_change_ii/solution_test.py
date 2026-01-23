@@ -1,13 +1,13 @@
-from .solution import change
+from .solution import Solution
 
 
 def test_example_1():
-    assert change(5, [1, 2, 5]) == 4
+    assert Solution().change(5, [1, 2, 5]) == 4
 
 
 def test_example_2():
-    assert change(3, [2]) == 0
+    assert Solution().change(3, [2]) == 0
 
 
 def test_example_3():
-    assert change(10, [10]) == 1
+    assert Solution().change(10, [10]) == 1

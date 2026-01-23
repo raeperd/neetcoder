@@ -1,9 +1,9 @@
-from .solution import is_happy
+from .solution import Solution
 
 
 def test_example_1():
-    assert is_happy(19) == True
+    assert Solution().isHappy(19) == True
 
 
 def test_example_2():
-    assert is_happy(2) == False
+    assert Solution().isHappy(2) == False

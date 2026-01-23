@@ -1,9 +1,9 @@
-from .solution import find_target_sum_ways
+from .solution import Solution
 
 
 def test_example_1():
-    assert find_target_sum_ways([1, 1, 1, 1, 1], 3) == 5
+    assert Solution().findTargetSumWays([1, 1, 1, 1, 1], 3) == 5
 
 
 def test_example_2():
-    assert find_target_sum_ways([1], 1) == 1
+    assert Solution().findTargetSumWays([1], 1) == 1

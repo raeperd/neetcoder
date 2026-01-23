@@ -1,9 +1,9 @@
-from .solution import trap
+from .solution import Solution
 
 
 def test_example_1():
-    assert trap([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]) == 6
+    assert Solution().trap([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]) == 6
 
 
 def test_example_2():
-    assert trap([4, 2, 0, 3, 2, 5]) == 9
+    assert Solution().trap([4, 2, 0, 3, 2, 5]) == 9

@@ -1,5 +1,6 @@
 from typing import List
 
 
-def minMeetingRooms(intervals: List[List[int]]) -> int:
-    return 0
+class Solution:
+    def minMeetingRooms(self, intervals: List[List[int]]) -> int:
+        return 0

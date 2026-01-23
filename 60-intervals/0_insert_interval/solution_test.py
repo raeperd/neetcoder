@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import insert
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import insert
     ],
 )
 def test_insert(intervals: list[list[int]], newInterval: list[int], expected: list[list[int]]):
-    assert insert(intervals, newInterval) == expected
+    assert Solution().insert(intervals, newInterval) == expected

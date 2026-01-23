@@ -1,5 +1,6 @@
 from typing import List
 
 
-def alienOrder(words: List[str]) -> str:
-    return ""
+class Solution:
+    def alienOrder(self, words: List[str]) -> str:
+        return ""

@@ -1,2 +1,3 @@
-def reverse_bits(n: int) -> int:
-    return 0
+class Solution:
+    def reverseBits(self, n: int) -> int:
+        return 0

@@ -1,9 +1,9 @@
-from .solution import min_cost_climbing_stairs
+from .solution import Solution
 
 
 def test_example_1():
-    assert min_cost_climbing_stairs([10, 15, 20]) == 15
+    assert Solution().minCostClimbingStairs([10, 15, 20]) == 15
 
 
 def test_example_2():
-    assert min_cost_climbing_stairs([1, 100, 1, 1, 1, 100, 1, 1, 100, 1]) == 6
+    assert Solution().minCostClimbingStairs([1, 100, 1, 1, 1, 100, 1, 1, 100, 1]) == 6

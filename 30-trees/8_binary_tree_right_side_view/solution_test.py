@@ -1,6 +1,6 @@
 from typing import Optional
 
-from .solution import TreeNode, right_side_view
+from .solution import Solution, TreeNode
 
 
 def build_tree(values: list) -> Optional[TreeNode]:
@@ -24,19 +24,19 @@ def build_tree(values: list) -> Optional[TreeNode]:
 
 def test_right_side_view_example1():
     root = build_tree([1, 2, 3, None, 5, None, 4])
-    assert right_side_view(root) == [1, 3, 4]
+    assert Solution().rightSideView(root) == [1, 3, 4]
 
 
 def test_right_side_view_example2():
     root = build_tree([1, 2, 3, 4, None, None, None, 5])
-    assert right_side_view(root) == [1, 3, 4, 5]
+    assert Solution().rightSideView(root) == [1, 3, 4, 5]
 
 
 def test_right_side_view_example3():
     root = build_tree([1, None, 3])
-    assert right_side_view(root) == [1, 3]
+    assert Solution().rightSideView(root) == [1, 3]
 
 
 def test_right_side_view_example4():
     root = build_tree([])
-    assert right_side_view(root) == []
+    assert Solution().rightSideView(root) == []

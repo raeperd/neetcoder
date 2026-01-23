@@ -1,13 +1,13 @@
-from .solution import hamming_weight
+from .solution import Solution
 
 
 def test_example_1():
-    assert hamming_weight(11) == 3
+    assert Solution().hammingWeight(11) == 3
 
 
 def test_example_2():
-    assert hamming_weight(128) == 1
+    assert Solution().hammingWeight(128) == 1
 
 
 def test_example_3():
-    assert hamming_weight(2147483645) == 30
+    assert Solution().hammingWeight(2147483645) == 30

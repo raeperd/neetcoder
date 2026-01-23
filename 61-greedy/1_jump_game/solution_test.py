@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import canJump
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import canJump
     ],
 )
 def test_can_jump(nums: list[int], expected: bool):
-    assert canJump(nums) == expected
+    assert Solution().canJump(nums) == expected

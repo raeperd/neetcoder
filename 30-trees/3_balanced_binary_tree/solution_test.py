@@ -1,6 +1,6 @@
 from typing import Optional
 
-from .solution import TreeNode, is_balanced
+from .solution import Solution, TreeNode
 
 
 def build_tree(values: list) -> Optional[TreeNode]:
@@ -24,14 +24,14 @@ def build_tree(values: list) -> Optional[TreeNode]:
 
 def test_is_balanced_example1():
     root = build_tree([3, 9, 20, None, None, 15, 7])
-    assert is_balanced(root) == True
+    assert Solution().isBalanced(root) == True
 
 
 def test_is_balanced_example2():
     root = build_tree([1, 2, 2, 3, 3, None, None, 4, 4])
-    assert is_balanced(root) == False
+    assert Solution().isBalanced(root) == False
 
 
 def test_is_balanced_example3():
     root = build_tree([])
-    assert is_balanced(root) == True
+    assert Solution().isBalanced(root) == True

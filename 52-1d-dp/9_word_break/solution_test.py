@@ -1,13 +1,13 @@
-from .solution import word_break
+from .solution import Solution
 
 
 def test_example_1():
-    assert word_break("leetcode", ["leet", "code"]) == True
+    assert Solution().wordBreak("leetcode", ["leet", "code"]) == True
 
 
 def test_example_2():
-    assert word_break("applepenapple", ["apple", "pen"]) == True
+    assert Solution().wordBreak("applepenapple", ["apple", "pen"]) == True
 
 
 def test_example_3():
-    assert word_break("catsandog", ["cats", "dog", "sand", "and", "cat"]) == False
+    assert Solution().wordBreak("catsandog", ["cats", "dog", "sand", "and", "cat"]) == False

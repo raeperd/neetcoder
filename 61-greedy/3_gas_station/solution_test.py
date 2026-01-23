@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import canCompleteCircuit
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import canCompleteCircuit
     ],
 )
 def test_can_complete_circuit(gas: list[int], cost: list[int], expected: int):
-    assert canCompleteCircuit(gas, cost) == expected
+    assert Solution().canCompleteCircuit(gas, cost) == expected

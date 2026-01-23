@@ -1,6 +1,6 @@
 from typing import Optional
 
-from .solution import TreeNode, diameter_of_binary_tree
+from .solution import Solution, TreeNode
 
 
 def build_tree(values: list) -> Optional[TreeNode]:
@@ -24,9 +24,9 @@ def build_tree(values: list) -> Optional[TreeNode]:
 
 def test_diameter_example1():
     root = build_tree([1, 2, 3, 4, 5])
-    assert diameter_of_binary_tree(root) == 3
+    assert Solution().diameterOfBinaryTree(root) == 3
 
 
 def test_diameter_example2():
     root = build_tree([1, 2])
-    assert diameter_of_binary_tree(root) == 1
+    assert Solution().diameterOfBinaryTree(root) == 1

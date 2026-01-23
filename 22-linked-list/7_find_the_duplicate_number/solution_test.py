@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import findDuplicate
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -12,4 +12,4 @@ from .solution import findDuplicate
     ],
 )
 def test_findDuplicate(nums, expected):
-    assert findDuplicate(nums) == expected
+    assert Solution().findDuplicate(nums) == expected

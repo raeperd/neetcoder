@@ -1,4 +1,4 @@
-from .solution import solve
+from .solution import Solution
 
 
 def test_example_1():
@@ -8,7 +8,7 @@ def test_example_1():
         ["X", "X", "O", "X"],
         ["X", "O", "X", "X"],
     ]
-    solve(board)
+    Solution().solve(board)
     expected = [
         ["X", "X", "X", "X"],
         ["X", "X", "X", "X"],
@@ -20,5 +20,5 @@ def test_example_1():
 
 def test_example_2():
     board = [["X"]]
-    solve(board)
+    Solution().solve(board)
     assert board == [["X"]]

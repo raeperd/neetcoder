@@ -1,2 +1,3 @@
-def count_substrings(s: str) -> int:
-    return 0
+class Solution:
+    def countSubstrings(self, s: str) -> int:
+        return 0

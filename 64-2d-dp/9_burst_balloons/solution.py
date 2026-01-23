@@ -1,5 +1,6 @@
 from typing import List
 
 
-def max_coins(nums: List[int]) -> int:
-    return 0
+class Solution:
+    def maxCoins(self, nums: List[int]) -> int:
+        return 0

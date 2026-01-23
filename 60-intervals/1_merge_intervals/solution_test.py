@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import merge
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -12,4 +12,4 @@ from .solution import merge
     ],
 )
 def test_merge(intervals: list[list[int]], expected: list[list[int]]):
-    assert merge(intervals) == expected
+    assert Solution().merge(intervals) == expected

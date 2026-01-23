@@ -1,5 +1,6 @@
 from typing import List
 
 
-def groupAnagrams(strs: List[str]) -> List[List[str]]:
-    return []
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        return []

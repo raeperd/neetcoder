@@ -1,2 +1,3 @@
-def min_distance(word1: str, word2: str) -> int:
-    return 0
+class Solution:
+    def minDistance(self, word1: str, word2: str) -> int:
+        return 0

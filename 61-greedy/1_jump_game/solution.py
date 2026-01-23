@@ -1,5 +1,6 @@
 from typing import List
 
 
-def canJump(nums: List[int]) -> bool:
-    return False
+class Solution:
+    def canJump(self, nums: List[int]) -> bool:
+        return False

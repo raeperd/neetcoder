@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import findItinerary
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -14,4 +14,4 @@ from .solution import findItinerary
     ],
 )
 def test_find_itinerary(tickets: list[list[str]], expected: list[str]):
-    assert findItinerary(tickets) == expected
+    assert Solution().findItinerary(tickets) == expected

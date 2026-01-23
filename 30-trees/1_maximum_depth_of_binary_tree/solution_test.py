@@ -1,6 +1,6 @@
 from typing import Optional
 
-from .solution import TreeNode, max_depth
+from .solution import Solution, TreeNode
 
 
 def build_tree(values: list) -> Optional[TreeNode]:
@@ -24,9 +24,9 @@ def build_tree(values: list) -> Optional[TreeNode]:
 
 def test_max_depth_example1():
     root = build_tree([3, 9, 20, None, None, 15, 7])
-    assert max_depth(root) == 3
+    assert Solution().maxDepth(root) == 3
 
 
 def test_max_depth_example2():
     root = build_tree([1, None, 2])
-    assert max_depth(root) == 2
+    assert Solution().maxDepth(root) == 2

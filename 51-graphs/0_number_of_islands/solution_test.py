@@ -1,4 +1,4 @@
-from .solution import num_islands
+from .solution import Solution
 
 
 def test_example_1():
@@ -8,7 +8,7 @@ def test_example_1():
         ["1", "1", "0", "0", "0"],
         ["0", "0", "0", "0", "0"],
     ]
-    assert num_islands(grid) == 1
+    assert Solution().numIslands(grid) == 1
 
 
 def test_example_2():
@@ -18,4 +18,4 @@ def test_example_2():
         ["0", "0", "1", "0", "0"],
         ["0", "0", "0", "1", "1"],
     ]
-    assert num_islands(grid) == 3
+    assert Solution().numIslands(grid) == 3

@@ -1,5 +1,6 @@
 from typing import List
 
 
-def max_profit(prices: List[int]) -> int:
-    return 0
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        return 0

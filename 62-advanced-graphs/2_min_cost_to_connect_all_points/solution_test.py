@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import minCostConnectPoints
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import minCostConnectPoints
     ],
 )
 def test_min_cost_connect_points(points: list[list[int]], expected: int):
-    assert minCostConnectPoints(points) == expected
+    assert Solution().minCostConnectPoints(points) == expected

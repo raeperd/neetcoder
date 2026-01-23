@@ -1,5 +1,6 @@
 from typing import List
 
 
-def merge(intervals: List[List[int]]) -> List[List[int]]:
-    return []
+class Solution:
+    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
+        return []

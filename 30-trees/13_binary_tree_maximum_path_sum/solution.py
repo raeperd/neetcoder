@@ -8,5 +8,6 @@ class TreeNode:
         self.right = right
 
 
-def max_path_sum(root: Optional[TreeNode]) -> int:
-    return 0
+class Solution:
+    def maxPathSum(self, root: Optional[TreeNode]) -> int:
+        return 0

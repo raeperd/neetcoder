@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import isNStraightHand
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import isNStraightHand
     ],
 )
 def test_is_n_straight_hand(hand: list[int], groupSize: int, expected: bool):
-    assert isNStraightHand(hand, groupSize) == expected
+    assert Solution().isNStraightHand(hand, groupSize) == expected

@@ -1,5 +1,6 @@
 from typing import List
 
 
-def canCompleteCircuit(gas: List[int], cost: List[int]) -> int:
-    return 0
+class Solution:
+    def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
+        return 0

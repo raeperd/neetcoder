@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import eraseOverlapIntervals
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -12,4 +12,4 @@ from .solution import eraseOverlapIntervals
     ],
 )
 def test_erase_overlap_intervals(intervals: list[list[int]], expected: int):
-    assert eraseOverlapIntervals(intervals) == expected
+    assert Solution().eraseOverlapIntervals(intervals) == expected

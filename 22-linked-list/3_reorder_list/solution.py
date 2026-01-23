@@ -7,5 +7,6 @@ class ListNode:
         self.next = next
 
 
-def reorderList(head: Optional[ListNode]) -> None:
-    pass
+class Solution:
+    def reorderList(self, head: Optional[ListNode]) -> None:
+        pass

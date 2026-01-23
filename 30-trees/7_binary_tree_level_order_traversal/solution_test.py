@@ -1,6 +1,6 @@
 from typing import Optional
 
-from .solution import TreeNode, level_order
+from .solution import Solution, TreeNode
 
 
 def build_tree(values: list) -> Optional[TreeNode]:
@@ -24,14 +24,14 @@ def build_tree(values: list) -> Optional[TreeNode]:
 
 def test_level_order_example1():
     root = build_tree([3, 9, 20, None, None, 15, 7])
-    assert level_order(root) == [[3], [9, 20], [15, 7]]
+    assert Solution().levelOrder(root) == [[3], [9, 20], [15, 7]]
 
 
 def test_level_order_example2():
     root = build_tree([1])
-    assert level_order(root) == [[1]]
+    assert Solution().levelOrder(root) == [[1]]
 
 
 def test_level_order_example3():
     root = build_tree([])
-    assert level_order(root) == []
+    assert Solution().levelOrder(root) == []

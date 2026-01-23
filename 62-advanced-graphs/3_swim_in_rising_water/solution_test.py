@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import swimInWater
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import swimInWater
     ],
 )
 def test_swim_in_water(grid: list[list[int]], expected: int):
-    assert swimInWater(grid) == expected
+    assert Solution().swimInWater(grid) == expected

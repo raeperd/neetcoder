@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import partitionLabels
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import partitionLabels
     ],
 )
 def test_partition_labels(s: str, expected: list[int]):
-    assert partitionLabels(s) == expected
+    assert Solution().partitionLabels(s) == expected

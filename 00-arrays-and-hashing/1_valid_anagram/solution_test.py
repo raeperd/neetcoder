@@ -1,9 +1,9 @@
-from .solution import isAnagram
+from .solution import Solution
 
 
 def test_example_1():
-    assert isAnagram("anagram", "nagaram") == True
+    assert Solution().isAnagram("anagram", "nagaram") == True
 
 
 def test_example_2():
-    assert isAnagram("rat", "car") == False
+    assert Solution().isAnagram("rat", "car") == False

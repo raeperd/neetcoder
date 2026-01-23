@@ -1,9 +1,9 @@
-from .solution import count_substrings
+from .solution import Solution
 
 
 def test_example_1():
-    assert count_substrings("abc") == 3
+    assert Solution().countSubstrings("abc") == 3
 
 
 def test_example_2():
-    assert count_substrings("aaa") == 6
+    assert Solution().countSubstrings("aaa") == 6

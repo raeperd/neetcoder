@@ -1,13 +1,13 @@
-from .solution import is_match
+from .solution import Solution
 
 
 def test_example_1():
-    assert is_match("aa", "a") == False
+    assert Solution().isMatch("aa", "a") == False
 
 
 def test_example_2():
-    assert is_match("aa", "a*") == True
+    assert Solution().isMatch("aa", "a*") == True
 
 
 def test_example_3():
-    assert is_match("ab", ".*") == True
+    assert Solution().isMatch("ab", ".*") == True

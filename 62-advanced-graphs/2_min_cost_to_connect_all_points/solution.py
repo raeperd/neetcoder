@@ -1,5 +1,6 @@
 from typing import List
 
 
-def minCostConnectPoints(points: List[List[int]]) -> int:
-    return 0
+class Solution:
+    def minCostConnectPoints(self, points: List[List[int]]) -> int:
+        return 0

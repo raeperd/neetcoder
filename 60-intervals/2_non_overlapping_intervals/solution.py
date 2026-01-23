@@ -1,5 +1,6 @@
 from typing import List
 
 
-def eraseOverlapIntervals(intervals: List[List[int]]) -> int:
-    return 0
+class Solution:
+    def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
+        return 0

@@ -7,5 +7,6 @@ class ListNode:
         self.next = next
 
 
-def reverseKGroup(head: Optional[ListNode], k: int) -> Optional[ListNode]:
-    return None
+class Solution:
+    def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+        return None

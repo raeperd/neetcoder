@@ -1,10 +1,10 @@
-from .solution import longest_palindrome
+from .solution import Solution
 
 
 def test_example_1():
-    result = longest_palindrome("babad")
+    result = Solution().longestPalindrome("babad")
     assert result in ["bab", "aba"]
 
 
 def test_example_2():
-    assert longest_palindrome("cbbd") == "bb"
+    assert Solution().longestPalindrome("cbbd") == "bb"

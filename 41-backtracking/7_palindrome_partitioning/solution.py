@@ -1,5 +1,6 @@
 from typing import List
 
 
-def partition(s: str) -> List[List[str]]:
-    return []
+class Solution:
+    def partition(self, s: str) -> List[List[str]]:
+        return []

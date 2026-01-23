@@ -1,5 +1,6 @@
 from typing import List
 
 
-def largestRectangleArea(heights: List[int]) -> int:
-    return 0
+class Solution:
+    def largestRectangleArea(self, heights: List[int]) -> int:
+        return 0

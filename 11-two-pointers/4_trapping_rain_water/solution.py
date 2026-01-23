@@ -1,5 +1,6 @@
 from typing import List
 
 
-def trap(height: List[int]) -> int:
-    return 0
+class Solution:
+    def trap(self, height: List[int]) -> int:
+        return 0

@@ -1,6 +1,6 @@
 from typing import Optional
 
-from .solution import TreeNode, good_nodes
+from .solution import Solution, TreeNode
 
 
 def build_tree(values: list) -> Optional[TreeNode]:
@@ -24,14 +24,14 @@ def build_tree(values: list) -> Optional[TreeNode]:
 
 def test_good_nodes_example1():
     root = build_tree([3, 1, 4, 3, None, 1, 5])
-    assert good_nodes(root) == 4
+    assert Solution().goodNodes(root) == 4
 
 
 def test_good_nodes_example2():
     root = build_tree([3, 3, None, 4, 2])
-    assert good_nodes(root) == 3
+    assert Solution().goodNodes(root) == 3
 
 
 def test_good_nodes_example3():
     root = build_tree([1])
-    assert good_nodes(root) == 1
+    assert Solution().goodNodes(root) == 1

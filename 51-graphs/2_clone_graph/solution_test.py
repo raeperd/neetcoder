@@ -1,4 +1,4 @@
-from .solution import Node, clone_graph
+from .solution import Node, Solution
 
 
 def build_graph(adj_list):
@@ -33,7 +33,7 @@ def graph_to_adj_list(node):
 def test_example_1():
     adj_list = [[2, 4], [1, 3], [2, 4], [1, 3]]
     original = build_graph(adj_list)
-    cloned = clone_graph(original)
+    cloned = Solution().cloneGraph(original)
     assert cloned is not original
     assert graph_to_adj_list(cloned) == adj_list
 
@@ -41,10 +41,10 @@ def test_example_1():
 def test_example_2():
     adj_list = [[]]
     original = build_graph(adj_list)
-    cloned = clone_graph(original)
+    cloned = Solution().cloneGraph(original)
     assert cloned is not original
     assert graph_to_adj_list(cloned) == adj_list
 
 
 def test_example_3():
-    assert clone_graph(None) is None
+    assert Solution().cloneGraph(None) is None

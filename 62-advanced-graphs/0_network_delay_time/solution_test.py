@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import networkDelayTime
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -12,4 +12,4 @@ from .solution import networkDelayTime
     ],
 )
 def test_network_delay_time(times: list[list[int]], n: int, k: int, expected: int):
-    assert networkDelayTime(times, n, k) == expected
+    assert Solution().networkDelayTime(times, n, k) == expected

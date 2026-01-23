@@ -1,6 +1,6 @@
 from typing import Optional
 
-from .solution import TreeNode, kth_smallest
+from .solution import Solution, TreeNode
 
 
 def build_tree(values: list) -> Optional[TreeNode]:
@@ -24,9 +24,9 @@ def build_tree(values: list) -> Optional[TreeNode]:
 
 def test_kth_smallest_example1():
     root = build_tree([3, 1, 4, None, 2])
-    assert kth_smallest(root, 1) == 1
+    assert Solution().kthSmallest(root, 1) == 1
 
 
 def test_kth_smallest_example2():
     root = build_tree([5, 3, 6, 2, 4, None, None, 1])
-    assert kth_smallest(root, 3) == 3
+    assert Solution().kthSmallest(root, 3) == 3

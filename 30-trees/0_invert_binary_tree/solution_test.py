@@ -1,6 +1,6 @@
 from typing import Optional
 
-from .solution import TreeNode, invert_tree
+from .solution import Solution, TreeNode
 
 
 def build_tree(values: list) -> Optional[TreeNode]:
@@ -42,17 +42,17 @@ def tree_to_list(root: Optional[TreeNode]) -> list:
 
 def test_invert_tree_example1():
     root = build_tree([4, 2, 7, 1, 3, 6, 9])
-    result = invert_tree(root)
+    result = Solution().invertTree(root)
     assert tree_to_list(result) == [4, 7, 2, 9, 6, 3, 1]
 
 
 def test_invert_tree_example2():
     root = build_tree([2, 1, 3])
-    result = invert_tree(root)
+    result = Solution().invertTree(root)
     assert tree_to_list(result) == [2, 3, 1]
 
 
 def test_invert_tree_example3():
     root = build_tree([])
-    result = invert_tree(root)
+    result = Solution().invertTree(root)
     assert tree_to_list(result) == []

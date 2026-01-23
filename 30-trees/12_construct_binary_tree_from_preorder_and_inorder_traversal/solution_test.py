@@ -1,6 +1,6 @@
 from typing import Optional
 
-from .solution import TreeNode, build_tree
+from .solution import Solution, TreeNode
 
 
 def tree_to_list(root: Optional[TreeNode]) -> list:
@@ -24,12 +24,12 @@ def tree_to_list(root: Optional[TreeNode]) -> list:
 def test_build_tree_example1():
     preorder = [3, 9, 20, 15, 7]
     inorder = [9, 3, 15, 20, 7]
-    result = build_tree(preorder, inorder)
+    result = Solution().buildTree(preorder, inorder)
     assert tree_to_list(result) == [3, 9, 20, None, None, 15, 7]
 
 
 def test_build_tree_example2():
     preorder = [-1]
     inorder = [-1]
-    result = build_tree(preorder, inorder)
+    result = Solution().buildTree(preorder, inorder)
     assert tree_to_list(result) == [-1]

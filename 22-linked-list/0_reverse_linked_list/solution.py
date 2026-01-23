@@ -7,5 +7,6 @@ class ListNode:
         self.next = next
 
 
-def reverseList(head: Optional[ListNode]) -> Optional[ListNode]:
-    return None
+class Solution:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        return None

@@ -1,13 +1,13 @@
-from .solution import length_of_lis
+from .solution import Solution
 
 
 def test_example_1():
-    assert length_of_lis([10, 9, 2, 5, 3, 7, 101, 18]) == 4
+    assert Solution().lengthOfLIS([10, 9, 2, 5, 3, 7, 101, 18]) == 4
 
 
 def test_example_2():
-    assert length_of_lis([0, 1, 0, 3, 2, 3]) == 4
+    assert Solution().lengthOfLIS([0, 1, 0, 3, 2, 3]) == 4
 
 
 def test_example_3():
-    assert length_of_lis([7, 7, 7, 7, 7, 7, 7]) == 1
+    assert Solution().lengthOfLIS([7, 7, 7, 7, 7, 7, 7]) == 1

@@ -1,4 +1,4 @@
-from .solution import find_order
+from .solution import Solution
 
 
 def is_valid_order(order, numCourses, prerequisites):
@@ -11,15 +11,15 @@ def is_valid_order(order, numCourses, prerequisites):
 
 
 def test_example_1():
-    result = find_order(2, [[1, 0]])
+    result = Solution().findOrder(2, [[1, 0]])
     assert is_valid_order(result, 2, [[1, 0]])
 
 
 def test_example_2():
-    result = find_order(4, [[1, 0], [2, 0], [3, 1], [3, 2]])
+    result = Solution().findOrder(4, [[1, 0], [2, 0], [3, 1], [3, 2]])
     assert is_valid_order(result, 4, [[1, 0], [2, 0], [3, 1], [3, 2]])
 
 
 def test_example_3():
-    result = find_order(1, [])
+    result = Solution().findOrder(1, [])
     assert result == [0]

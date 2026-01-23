@@ -1,5 +1,6 @@
 from typing import List
 
 
-def letter_combinations(digits: str) -> List[str]:
-    return []
+class Solution:
+    def letterCombinations(self, digits: str) -> List[str]:
+        return []

@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import checkInclusion
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import checkInclusion
     ],
 )
 def test_checkInclusion(s1, s2, expected):
-    assert checkInclusion(s1, s2) == expected
+    assert Solution().checkInclusion(s1, s2) == expected

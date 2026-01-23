@@ -8,5 +8,6 @@ class TreeNode:
         self.right = right
 
 
-def level_order(root: Optional[TreeNode]) -> List[List[int]]:
-    return []
+class Solution:
+    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        return []

@@ -8,5 +8,6 @@ class TreeNode:
         self.right = right
 
 
-def is_valid_bst(root: Optional[TreeNode]) -> bool:
-    return False
+class Solution:
+    def isValidBST(self, root: Optional[TreeNode]) -> bool:
+        return False

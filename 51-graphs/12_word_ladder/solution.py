@@ -1,5 +1,6 @@
 from typing import List
 
 
-def ladder_length(beginWord: str, endWord: str, wordList: List[str]) -> int:
-    return 0
+class Solution:
+    def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
+        return 0

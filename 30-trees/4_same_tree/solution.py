@@ -8,5 +8,6 @@ class TreeNode:
         self.right = right
 
 
-def is_same_tree(p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-    return False
+class Solution:
+    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
+        return False

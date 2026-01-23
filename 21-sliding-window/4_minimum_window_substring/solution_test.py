@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import minWindow
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -12,4 +12,4 @@ from .solution import minWindow
     ],
 )
 def test_minWindow(s, t, expected):
-    assert minWindow(s, t) == expected
+    assert Solution().minWindow(s, t) == expected

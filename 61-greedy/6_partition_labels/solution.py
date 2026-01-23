@@ -1,5 +1,6 @@
 from typing import List
 
 
-def partitionLabels(s: str) -> List[int]:
-    return []
+class Solution:
+    def partitionLabels(self, s: str) -> List[int]:
+        return []

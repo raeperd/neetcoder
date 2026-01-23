@@ -1,9 +1,9 @@
 from typing import List
 
 
-def encode(strs: List[str]) -> str:
-    return ""
+class Solution:
+    def encode(self, strs: List[str]) -> str:
+        return ""
 
-
-def decode(s: str) -> List[str]:
-    return []
+    def decode(self, s: str) -> List[str]:
+        return []

@@ -1,5 +1,6 @@
 from typing import List
 
 
-def least_interval(tasks: List[str], n: int) -> int:
-    return 0
+class Solution:
+    def leastInterval(self, tasks: List[str], n: int) -> int:
+        return 0

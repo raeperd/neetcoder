@@ -8,5 +8,6 @@ class TreeNode:
         self.right = right
 
 
-def kth_smallest(root: Optional[TreeNode], k: int) -> int:
-    return 0
+class Solution:
+    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
+        return 0

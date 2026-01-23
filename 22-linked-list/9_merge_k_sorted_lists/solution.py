@@ -7,5 +7,6 @@ class ListNode:
         self.next = next
 
 
-def mergeKLists(lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-    return None
+class Solution:
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        return None

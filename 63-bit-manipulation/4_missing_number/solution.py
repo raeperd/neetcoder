@@ -1,5 +1,6 @@
 from typing import List
 
 
-def missing_number(nums: List[int]) -> int:
-    return 0
+class Solution:
+    def missingNumber(self, nums: List[int]) -> int:
+        return 0

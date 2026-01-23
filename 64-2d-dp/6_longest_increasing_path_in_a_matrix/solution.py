@@ -1,5 +1,6 @@
 from typing import List
 
 
-def longest_increasing_path(matrix: List[List[int]]) -> int:
-    return 0
+class Solution:
+    def longestIncreasingPath(self, matrix: List[List[int]]) -> int:
+        return 0

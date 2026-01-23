@@ -8,5 +8,6 @@ class TreeNode:
         self.right = right
 
 
-def is_subtree(root: Optional[TreeNode], sub_root: Optional[TreeNode]) -> bool:
-    return False
+class Solution:
+    def isSubtree(self, root: Optional[TreeNode], sub_root: Optional[TreeNode]) -> bool:
+        return False

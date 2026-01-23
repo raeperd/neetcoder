@@ -1,5 +1,6 @@
 from typing import List
 
 
-def set_zeroes(matrix: List[List[int]]) -> None:
-    pass
+class Solution:
+    def setZeroes(self, matrix: List[List[int]]) -> None:
+        pass

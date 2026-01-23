@@ -1,5 +1,6 @@
 from typing import List
 
 
-def find_words(board: List[List[str]], words: List[str]) -> List[str]:
-    return []
+class Solution:
+    def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
+        return []

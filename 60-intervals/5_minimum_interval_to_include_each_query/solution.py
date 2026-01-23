@@ -1,5 +1,6 @@
 from typing import List
 
 
-def minInterval(intervals: List[List[int]], queries: List[int]) -> List[int]:
-    return []
+class Solution:
+    def minInterval(self, intervals: List[List[int]], queries: List[int]) -> List[int]:
+        return []

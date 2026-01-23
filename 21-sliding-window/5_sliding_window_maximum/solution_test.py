@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import maxSlidingWindow
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import maxSlidingWindow
     ],
 )
 def test_maxSlidingWindow(nums, k, expected):
-    assert maxSlidingWindow(nums, k) == expected
+    assert Solution().maxSlidingWindow(nums, k) == expected

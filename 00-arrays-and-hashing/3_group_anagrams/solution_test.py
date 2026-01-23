@@ -1,8 +1,8 @@
-from .solution import groupAnagrams
+from .solution import Solution
 
 
 def test_example_1():
-    result = groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"])
+    result = Solution().groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"])
     # Sort each group and sort the list of groups for comparison
     result = [sorted(group) for group in result]
     result = sorted(result)
@@ -12,8 +12,8 @@ def test_example_1():
 
 
 def test_example_2():
-    assert groupAnagrams([""]) == [[""]]
+    assert Solution().groupAnagrams([""]) == [[""]]
 
 
 def test_example_3():
-    assert groupAnagrams(["a"]) == [["a"]]
+    assert Solution().groupAnagrams(["a"]) == [["a"]]

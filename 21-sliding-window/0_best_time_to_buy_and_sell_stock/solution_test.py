@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import maxProfit
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import maxProfit
     ],
 )
 def test_maxProfit(prices, expected):
-    assert maxProfit(prices) == expected
+    assert Solution().maxProfit(prices) == expected

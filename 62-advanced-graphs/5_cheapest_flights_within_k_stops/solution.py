@@ -1,5 +1,6 @@
 from typing import List
 
 
-def findCheapestPrice(n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
-    return 0
+class Solution:
+    def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
+        return 0

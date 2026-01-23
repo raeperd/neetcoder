@@ -1,5 +1,6 @@
 from typing import List
 
 
-def find_redundant_connection(edges: List[List[int]]) -> List[int]:
-    return []
+class Solution:
+    def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
+        return []

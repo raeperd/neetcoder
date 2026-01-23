@@ -1,5 +1,6 @@
 from typing import List
 
 
-def productExceptSelf(nums: List[int]) -> List[int]:
-    return []
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        return []

@@ -1,2 +1,3 @@
-def num_distinct(s: str, t: str) -> int:
-    return 0
+class Solution:
+    def numDistinct(self, s: str, t: str) -> int:
+        return 0

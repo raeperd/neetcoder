@@ -1,6 +1,6 @@
 from typing import Optional
 
-from .solution import TreeNode, is_valid_bst
+from .solution import Solution, TreeNode
 
 
 def build_tree(values: list) -> Optional[TreeNode]:
@@ -24,9 +24,9 @@ def build_tree(values: list) -> Optional[TreeNode]:
 
 def test_is_valid_bst_example1():
     root = build_tree([2, 1, 3])
-    assert is_valid_bst(root) == True
+    assert Solution().isValidBST(root) == True
 
 
 def test_is_valid_bst_example2():
     root = build_tree([5, 1, 4, None, None, 3, 6])
-    assert is_valid_bst(root) == False
+    assert Solution().isValidBST(root) == False

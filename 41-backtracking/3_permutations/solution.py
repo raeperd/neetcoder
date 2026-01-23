@@ -1,5 +1,6 @@
 from typing import List
 
 
-def permute(nums: List[int]) -> List[List[int]]:
-    return []
+class Solution:
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        return []

@@ -1,5 +1,6 @@
 from typing import List
 
 
-def solve_n_queens(n: int) -> List[List[str]]:
-    return []
+class Solution:
+    def solveNQueens(self, n: int) -> List[List[str]]:
+        return []

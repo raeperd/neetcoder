@@ -1,5 +1,6 @@
 from typing import List
 
 
-def twoSum(nums: List[int], target: int) -> List[int]:
-    return []
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        return []

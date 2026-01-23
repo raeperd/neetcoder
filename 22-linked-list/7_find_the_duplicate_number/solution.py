@@ -1,5 +1,6 @@
 from typing import List
 
 
-def findDuplicate(nums: List[int]) -> int:
-    return 0
+class Solution:
+    def findDuplicate(self, nums: List[int]) -> int:
+        return 0

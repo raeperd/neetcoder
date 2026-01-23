@@ -8,5 +8,6 @@ class TreeNode:
         self.right = right
 
 
-def right_side_view(root: Optional[TreeNode]) -> List[int]:
-    return []
+class Solution:
+    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        return []

@@ -1,5 +1,6 @@
 from typing import List
 
 
-def subsets(nums: List[int]) -> List[List[int]]:
-    return []
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        return []

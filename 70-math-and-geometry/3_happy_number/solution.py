@@ -1,2 +1,3 @@
-def is_happy(n: int) -> bool:
-    return False
+class Solution:
+    def isHappy(self, n: int) -> bool:
+        return False

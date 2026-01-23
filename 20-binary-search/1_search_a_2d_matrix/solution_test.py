@@ -1,6 +1,6 @@
 import pytest
 
-from .solution import searchMatrix
+from .solution import Solution
 
 
 @pytest.mark.parametrize(
@@ -11,4 +11,4 @@ from .solution import searchMatrix
     ],
 )
 def test_searchMatrix(matrix, target, expected):
-    assert searchMatrix(matrix, target) == expected
+    assert Solution().searchMatrix(matrix, target) == expected

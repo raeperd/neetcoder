@@ -1,2 +1,3 @@
-def longest_palindrome(s: str) -> str:
-    return ""
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        return ""
