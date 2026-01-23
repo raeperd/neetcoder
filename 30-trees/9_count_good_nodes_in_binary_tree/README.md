@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [tree, depth-first-search, breadth-first-search, binary-tree]
+tags: [neetcode-150]
+url: https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/
+---
+
 # Count Good Nodes in Binary Tree
-
-**Difficulty:** Medium
-**Topics:** Tree, Depth-First Search, Breadth-First Search, Binary Tree
-**Tags:** neetcode-150
-
-**LeetCode:** [Problem 1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
 
 ## Problem Description
 

@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, hash-table, greedy, sorting, heap-priority-queue, counting]
+tags: [grind-75]
+url: https://leetcode.com/problems/task-scheduler/description/
+---
+
 # Task Scheduler
-
-**Difficulty:** Medium
-**Topics:** Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting
-**Tags:** grind-75
-
-**LeetCode:** [Problem 621](https://leetcode.com/problems/task-scheduler/description/)
 
 ## Problem Description
 

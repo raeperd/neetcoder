@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [linked-list, two-pointers]
+tags: [grind]
+url: https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+---
+
 # Remove Nth Node From End of List
-
-**Difficulty:** Medium
-**Topics:** Linked List, Two Pointers
-**Tags:** grind
-
-**LeetCode:** [Problem 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 
 ## Problem Description
 

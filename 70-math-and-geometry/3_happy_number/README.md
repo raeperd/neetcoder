@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [hash-table, math, two-pointers]
+tags: [blind-75]
+url: https://leetcode.com/problems/happy-number/description/
+---
+
 # Happy Number
-
-**Difficulty:** Easy
-**Topics:** Hash Table, Math, Two Pointers
-**Tags:** blind-75
-
-**LeetCode:** [Problem 202](https://leetcode.com/problems/happy-number/description/)
 
 ## Problem Description
 

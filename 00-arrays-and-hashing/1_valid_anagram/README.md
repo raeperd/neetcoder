@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [hash-table, string, sorting]
+tags: [grind-75]
+url: https://leetcode.com/problems/valid-anagram/description/
+---
+
 # Valid Anagram
-
-**Difficulty:** Easy
-**Topics:** Hash Table, String, Sorting
-**Tags:** grind-75
-
-**LeetCode:** [Problem 242](https://leetcode.com/problems/valid-anagram/description/)
 
 ## Problem Description
 

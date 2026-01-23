@@ -1,9 +1,11 @@
+---
+difficulty: hard
+topics: [array, binary-search, sorting, heap-priority-queue]
+tags: []
+url: https://leetcode.com/problems/minimum-interval-to-include-each-query/description/
+---
+
 # Minimum Interval to Include Each Query
-
-**Difficulty:** Hard
-**Topics:** Array, Binary Search, Sorting, Heap (Priority Queue)
-
-**LeetCode:** [Problem 1851](https://leetcode.com/problems/minimum-interval-to-include-each-query/description/)
 
 ## Problem Description
 

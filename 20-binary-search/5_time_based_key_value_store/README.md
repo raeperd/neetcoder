@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [hash-table, string, binary-search, design]
+tags: [grind-75]
+url: https://leetcode.com/problems/time-based-key-value-store/description/
+---
+
 # Time Based Key-Value Store
-
-**Difficulty:** Medium
-**Topics:** Hash Table, String, Binary Search, Design
-**Tags:** grind-75
-
-**LeetCode:** [Problem 981](https://leetcode.com/problems/time-based-key-value-store/description/)
 
 ## Problem Description
 

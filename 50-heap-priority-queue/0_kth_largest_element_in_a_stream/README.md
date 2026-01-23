@@ -1,9 +1,11 @@
+---
+difficulty: easy
+topics: [tree, design, binary-search-tree, heap-priority-queue, binary-tree, data-stream]
+tags: []
+url: https://leetcode.com/problems/kth-largest-element-in-a-stream/description/
+---
+
 # Kth Largest Element in a Stream
-
-**Difficulty:** Easy
-**Topics:** Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream
-
-**LeetCode:** [Problem 703](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
 
 ## Problem Description
 

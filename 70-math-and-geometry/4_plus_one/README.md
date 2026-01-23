@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [array, math]
+tags: [blind-75]
+url: https://leetcode.com/problems/plus-one/description/
+---
+
 # Plus One
-
-**Difficulty:** Easy
-**Topics:** Array, Math
-**Tags:** blind-75
-
-**LeetCode:** [Problem 66](https://leetcode.com/problems/plus-one/description/)
 
 ## Problem Description
 

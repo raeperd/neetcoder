@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, binary-search]
+tags: [grind-75]
+url: https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+---
+
 # Search in Rotated Sorted Array
-
-**Difficulty:** Medium
-**Topics:** Array, Binary Search
-**Tags:** grind-75
-
-**LeetCode:** [Problem 33](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 
 ## Problem Description
 

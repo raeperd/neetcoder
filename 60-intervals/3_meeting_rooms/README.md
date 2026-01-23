@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [array, sorting]
+tags: [blind-75]
+url: https://leetcode.com/problems/meeting-rooms/description/
+---
+
 # Meeting Rooms
-
-**Difficulty:** Easy
-**Topics:** Array, Sorting
-**Tags:** blind-75
-
-**LeetCode:** [Problem 252](https://leetcode.com/problems/meeting-rooms/description/)
 
 ## Problem Description
 

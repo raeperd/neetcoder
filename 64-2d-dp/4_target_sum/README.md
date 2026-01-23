@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, dynamic-programming, backtracking]
+tags: [blind-75]
+url: https://leetcode.com/problems/target-sum/description/
+---
+
 # Target Sum
-
-**Difficulty:** Medium
-**Topics:** Array, Dynamic Programming, Backtracking
-**Tags:** blind-75
-
-**LeetCode:** [Problem 494](https://leetcode.com/problems/target-sum/description/)
 
 ## Problem Description
 

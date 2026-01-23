@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, hash-table, string, sorting]
+tags: [grind]
+url: https://leetcode.com/problems/group-anagrams/description/
+---
+
 # Group Anagrams
-
-**Difficulty:** Medium
-**Topics:** Array, Hash Table, String, Sorting
-**Tags:** grind
-
-**LeetCode:** [Problem 49](https://leetcode.com/problems/group-anagrams/description/)
 
 ## Problem Description
 

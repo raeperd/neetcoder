@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, stack, monotonic-stack]
+tags: [grind]
+url: https://leetcode.com/problems/daily-temperatures/description/
+---
+
 # Daily Temperatures
-
-**Difficulty:** Medium
-**Topics:** Array, Stack, Monotonic Stack
-**Tags:** grind
-
-**LeetCode:** [Problem 739](https://leetcode.com/problems/daily-temperatures/description/)
 
 ## Problem Description
 

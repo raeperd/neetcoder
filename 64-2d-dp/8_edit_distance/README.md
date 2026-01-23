@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [string, dynamic-programming]
+tags: [blind-75]
+url: https://leetcode.com/problems/edit-distance/description/
+---
+
 # Edit Distance
-
-**Difficulty:** Medium
-**Topics:** String, Dynamic Programming
-**Tags:** blind-75
-
-**LeetCode:** [Problem 72](https://leetcode.com/problems/edit-distance/description/)
 
 ## Problem Description
 

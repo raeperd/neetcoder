@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, dynamic-programming]
+tags: [blind-75]
+url: https://leetcode.com/problems/house-robber-ii/description/
+---
+
 # House Robber II
-
-**Difficulty:** Medium
-**Topics:** Array, Dynamic Programming
-**Tags:** blind-75
-
-**LeetCode:** [Problem 213](https://leetcode.com/problems/house-robber-ii/description/)
 
 ## Problem Description
 

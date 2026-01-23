@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, dynamic-programming]
+tags: [grind]
+url: https://leetcode.com/problems/maximum-product-subarray/description/
+---
+
 # Maximum Product Subarray
-
-**Difficulty:** Medium
-**Topics:** Array, Dynamic Programming
-**Tags:** grind
-
-**LeetCode:** [Problem 152](https://leetcode.com/problems/maximum-product-subarray/description/)
 
 ## Problem Description
 

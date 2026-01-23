@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, dynamic-programming]
+tags: [grind]
+url: https://leetcode.com/problems/house-robber/description/
+---
+
 # House Robber
-
-**Difficulty:** Medium
-**Topics:** Array, Dynamic Programming
-**Tags:** grind
-
-**LeetCode:** [Problem 198](https://leetcode.com/problems/house-robber/description/)
 
 ## Problem Description
 

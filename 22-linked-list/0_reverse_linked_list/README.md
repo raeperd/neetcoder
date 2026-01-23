@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [linked-list, recursion]
+tags: [grind-75]
+url: https://leetcode.com/problems/reverse-linked-list/description/
+---
+
 # Reverse Linked List
-
-**Difficulty:** Easy
-**Topics:** Linked List, Recursion
-**Tags:** grind-75
-
-**LeetCode:** [Problem 206](https://leetcode.com/problems/reverse-linked-list/description/)
 
 ## Problem Description
 

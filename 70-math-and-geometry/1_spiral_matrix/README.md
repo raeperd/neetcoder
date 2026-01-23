@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, matrix, simulation]
+tags: [grind-75]
+url: https://leetcode.com/problems/spiral-matrix/description/
+---
+
 # Spiral Matrix
-
-**Difficulty:** Medium
-**Topics:** Array, Matrix, Simulation
-**Tags:** grind-75
-
-**LeetCode:** [Problem 54](https://leetcode.com/problems/spiral-matrix/description/)
 
 ## Problem Description
 

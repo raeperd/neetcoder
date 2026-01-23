@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [array, dynamic-programming]
+tags: [blind-75]
+url: https://leetcode.com/problems/burst-balloons/description/
+---
+
 # Burst Balloons
-
-**Difficulty:** Hard
-**Topics:** Array, Dynamic Programming
-**Tags:** blind-75
-
-**LeetCode:** [Problem 312](https://leetcode.com/problems/burst-balloons/description/)
 
 ## Problem Description
 

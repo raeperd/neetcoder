@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, dynamic-programming]
+tags: [grind-75]
+url: https://leetcode.com/problems/partition-equal-subset-sum/description/
+---
+
 # Partition Equal Subset Sum
-
-**Difficulty:** Medium
-**Topics:** Array, Dynamic Programming
-**Tags:** grind-75
-
-**LeetCode:** [Problem 416](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 
 ## Problem Description
 

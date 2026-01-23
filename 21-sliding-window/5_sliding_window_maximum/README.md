@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [array, queue, sliding-window, heap-priority-queue, monotonic-queue]
+tags: [blind-75]
+url: https://leetcode.com/problems/sliding-window-maximum/description/
+---
+
 # Sliding Window Maximum
-
-**Difficulty:** Hard
-**Topics:** Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue
-**Tags:** blind-75
-
-**LeetCode:** [Problem 239](https://leetcode.com/problems/sliding-window-maximum/description/)
 
 ## Problem Description
 

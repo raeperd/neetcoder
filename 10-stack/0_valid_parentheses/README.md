@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [string, stack]
+tags: [grind-75]
+url: https://leetcode.com/problems/valid-parentheses/description/
+---
+
 # Valid Parentheses
-
-**Difficulty:** Easy
-**Topics:** String, Stack
-**Tags:** grind-75
-
-**LeetCode:** [Problem 20](https://leetcode.com/problems/valid-parentheses/description/)
 
 ## Problem Description
 

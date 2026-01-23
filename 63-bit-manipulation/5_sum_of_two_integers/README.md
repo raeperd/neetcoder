@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [math, bit-manipulation]
+tags: [blind-75]
+url: https://leetcode.com/problems/sum-of-two-integers/description/
+---
+
 # Sum of Two Integers
-
-**Difficulty:** Medium
-**Topics:** Math, Bit Manipulation
-**Tags:** blind-75
-
-**LeetCode:** [Problem 371](https://leetcode.com/problems/sum-of-two-integers/description/)
 
 ## Problem Description
 

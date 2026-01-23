@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [dynamic-programming, bit-manipulation]
+tags: [blind-75]
+url: https://leetcode.com/problems/counting-bits/description/
+---
+
 # Counting Bits
-
-**Difficulty:** Easy
-**Topics:** Dynamic Programming, Bit Manipulation
-**Tags:** blind-75
-
-**LeetCode:** [Problem 338](https://leetcode.com/problems/counting-bits/description/)
 
 ## Problem Description
 

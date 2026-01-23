@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, math, stack]
+tags: [grind-75]
+url: https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
+---
+
 # Evaluate Reverse Polish Notation
-
-**Difficulty:** Medium
-**Topics:** Array, Math, Stack
-**Tags:** grind-75
-
-**LeetCode:** [Problem 150](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
 ## Problem Description
 

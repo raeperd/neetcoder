@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [tree, depth-first-search, binary-search-tree, binary-tree]
+tags: [grind-75]
+url: https://leetcode.com/problems/validate-binary-search-tree/description/
+---
+
 # Validate Binary Search Tree
-
-**Difficulty:** Medium
-**Topics:** Tree, Depth-First Search, Binary Search Tree, Binary Tree
-**Tags:** grind-75
-
-**LeetCode:** [Problem 98](https://leetcode.com/problems/validate-binary-search-tree/description/)
 
 ## Problem Description
 

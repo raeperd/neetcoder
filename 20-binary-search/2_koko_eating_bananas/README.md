@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, binary-search]
+tags: [blind-75]
+url: https://leetcode.com/problems/koko-eating-bananas/description/
+---
+
 # Koko Eating Bananas
-
-**Difficulty:** Medium
-**Topics:** Array, Binary Search
-**Tags:** blind-75
-
-**LeetCode:** [Problem 875](https://leetcode.com/problems/koko-eating-bananas/description/)
 
 ## Problem Description
 

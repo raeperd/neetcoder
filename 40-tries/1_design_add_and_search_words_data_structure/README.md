@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [string, depth-first-search, design, trie]
+tags: [grind]
+url: https://leetcode.com/problems/design-add-and-search-words-data-structure/description/
+---
+
 # Design Add and Search Words Data Structure
-
-**Difficulty:** Medium
-**Topics:** String, Depth-First Search, Design, Trie
-**Tags:** grind
-
-**LeetCode:** [Problem 211](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)
 
 ## Problem Description
 

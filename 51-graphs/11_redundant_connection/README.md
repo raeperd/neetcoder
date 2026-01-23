@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [depth-first-search, breadth-first-search, union-find, graph]
+tags: []
+url: https://leetcode.com/problems/redundant-connection/description/
+---
+
 # Redundant Connection
-
-**Difficulty:** Medium
-**Topics:** Depth-First Search, Breadth-First Search, Union Find, Graph
-
-**LeetCode:** [Problem 684](https://leetcode.com/problems/redundant-connection/description/)
 
 ## Problem Description
 

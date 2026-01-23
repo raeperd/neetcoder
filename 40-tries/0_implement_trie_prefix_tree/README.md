@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [hash-table, string, design, trie]
+tags: [grind-75]
+url: https://leetcode.com/problems/implement-trie-prefix-tree/description/
+---
+
 # Implement Trie (Prefix Tree)
-
-**Difficulty:** Medium
-**Topics:** Hash Table, String, Design, Trie
-**Tags:** grind-75
-
-**LeetCode:** [Problem 208](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 
 ## Problem Description
 

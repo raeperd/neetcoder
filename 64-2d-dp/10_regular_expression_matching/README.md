@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [string, dynamic-programming, recursion]
+tags: [blind-75]
+url: https://leetcode.com/problems/regular-expression-matching/description/
+---
+
 # Regular Expression Matching
-
-**Difficulty:** Hard
-**Topics:** String, Dynamic Programming, Recursion
-**Tags:** blind-75
-
-**LeetCode:** [Problem 10](https://leetcode.com/problems/regular-expression-matching/description/)
 
 ## Problem Description
 

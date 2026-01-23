@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [array, dynamic-programming, depth-first-search, memoization, matrix]
+tags: [blind-75]
+url: https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/
+---
+
 # Longest Increasing Path in a Matrix
-
-**Difficulty:** Hard
-**Topics:** Array, Dynamic Programming, Depth-First Search, Memoization, Matrix
-**Tags:** blind-75
-
-**LeetCode:** [Problem 329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
 
 ## Problem Description
 

@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, hash-table, design, counting]
+tags: [blind-75]
+url: https://leetcode.com/problems/detect-squares/description/
+---
+
 # Detect Squares
-
-**Difficulty:** Medium
-**Topics:** Array, Hash Table, Design, Counting
-**Tags:** blind-75
-
-**LeetCode:** [Problem 2013](https://leetcode.com/problems/detect-squares/description/)
 
 ## Problem Description
 

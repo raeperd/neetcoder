@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [hash-table, string, sliding-window]
+tags: [blind-75]
+url: https://leetcode.com/problems/longest-repeating-character-replacement/description/
+---
+
 # Longest Repeating Character Replacement
-
-**Difficulty:** Medium
-**Topics:** Hash Table, String, Sliding Window
-**Tags:** blind-75
-
-**LeetCode:** [Problem 424](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 
 ## Problem Description
 

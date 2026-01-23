@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, dynamic-programming]
+tags: [blind-75]
+url: https://leetcode.com/problems/coin-change-ii/description/
+---
+
 # Coin Change II
-
-**Difficulty:** Medium
-**Topics:** Array, Dynamic Programming
-**Tags:** blind-75
-
-**LeetCode:** [Problem 518](https://leetcode.com/problems/coin-change-ii/description/)
 
 ## Problem Description
 

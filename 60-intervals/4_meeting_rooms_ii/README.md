@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, two-pointers, greedy, sorting, heap-priority-queue]
+tags: [blind-75]
+url: https://leetcode.com/problems/meeting-rooms-ii/description/
+---
+
 # Meeting Rooms II
-
-**Difficulty:** Medium
-**Topics:** Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue)
-**Tags:** blind-75
-
-**LeetCode:** [Problem 253](https://leetcode.com/problems/meeting-rooms-ii/description/)
 
 ## Problem Description
 

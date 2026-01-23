@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [two-pointers, string, dynamic-programming]
+tags: [blind-75]
+url: https://leetcode.com/problems/palindromic-substrings/description/
+---
+
 # Palindromic Substrings
-
-**Difficulty:** Medium
-**Topics:** Two Pointers, String, Dynamic Programming
-**Tags:** blind-75
-
-**LeetCode:** [Problem 647](https://leetcode.com/problems/palindromic-substrings/description/)
 
 ## Problem Description
 

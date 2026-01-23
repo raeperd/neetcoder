@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [array, depth-first-search, breadth-first-search, union-find, matrix]
+tags: []
+url: https://leetcode.com/problems/max-area-of-island/description/
+---
+
 # Max Area of Island
-
-**Difficulty:** Medium
-**Topics:** Array, Depth-First Search, Breadth-First Search, Union Find, Matrix
-
-**LeetCode:** [Problem 695](https://leetcode.com/problems/max-area-of-island/description/)
 
 ## Problem Description
 

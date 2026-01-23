@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [tree, depth-first-search, breadth-first-search, binary-tree]
+tags: [grind-75]
+url: https://leetcode.com/problems/binary-tree-right-side-view/description/
+---
+
 # Binary Tree Right Side View
-
-**Difficulty:** Medium
-**Topics:** Tree, Depth-First Search, Breadth-First Search, Binary Tree
-**Tags:** grind-75
-
-**LeetCode:** [Problem 199](https://leetcode.com/problems/binary-tree-right-side-view/description/)
 
 ## Problem Description
 

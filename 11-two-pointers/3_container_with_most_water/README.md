@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, two-pointers, greedy]
+tags: [grind-75]
+url: https://leetcode.com/problems/container-with-most-water/description/
+---
+
 # Container With Most Water
-
-**Difficulty:** Medium
-**Topics:** Array, Two Pointers, Greedy
-**Tags:** grind-75
-
-**LeetCode:** [Problem 11](https://leetcode.com/problems/container-with-most-water/description/)
 
 ## Problem Description
 

@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [array, union-find, graph, minimum-spanning-tree]
+tags: []
+url: https://leetcode.com/problems/min-cost-to-connect-all-points/description/
+---
+
 # Min Cost to Connect All Points
-
-**Difficulty:** Medium
-**Topics:** Array, Union Find, Graph, Minimum Spanning Tree
-
-**LeetCode:** [Problem 1584](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 
 ## Problem Description
 

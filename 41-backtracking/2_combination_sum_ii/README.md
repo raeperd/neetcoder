@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, backtracking]
+tags: [neetcode-150]
+url: https://leetcode.com/problems/combination-sum-ii/description/
+---
+
 # Combination Sum II
-
-**Difficulty:** Medium
-**Topics:** Array, Backtracking
-**Tags:** neetcode-150
-
-**LeetCode:** [Problem 40](https://leetcode.com/problems/combination-sum-ii/description/)
 
 ## Problem Description
 

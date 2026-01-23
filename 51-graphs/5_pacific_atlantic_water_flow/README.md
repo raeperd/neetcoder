@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, depth-first-search, breadth-first-search, matrix]
+tags: [grind]
+url: https://leetcode.com/problems/pacific-atlantic-water-flow/description/
+---
+
 # Pacific Atlantic Water Flow
-
-**Difficulty:** Medium
-**Topics:** Array, Depth-First Search, Breadth-First Search, Matrix
-**Tags:** grind
-
-**LeetCode:** [Problem 417](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)
 
 ## Problem Description
 

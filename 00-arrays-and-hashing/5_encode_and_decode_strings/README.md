@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, string, design]
+tags: [blind-75]
+url: https://leetcode.com/problems/encode-and-decode-strings/description/
+---
+
 # Encode and Decode Strings
-
-**Difficulty:** Medium
-**Topics:** Array, String, Design
-**Tags:** blind-75
-
-**LeetCode:** [Problem 271](https://leetcode.com/problems/encode-and-decode-strings/description/)
 
 ## Problem Description
 

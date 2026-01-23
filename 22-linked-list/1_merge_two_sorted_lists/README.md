@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [linked-list, recursion]
+tags: [grind-75]
+url: https://leetcode.com/problems/merge-two-sorted-lists/description/
+---
+
 # Merge Two Sorted Lists
-
-**Difficulty:** Easy
-**Topics:** Linked List, Recursion
-**Tags:** grind-75
-
-**LeetCode:** [Problem 21](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
 ## Problem Description
 

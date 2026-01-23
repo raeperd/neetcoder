@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [array, binary-search, divide-and-conquer]
+tags: [algo-master-75]
+url: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+---
+
 # Median of Two Sorted Arrays
-
-**Difficulty:** Hard
-**Topics:** Array, Binary Search, Divide and Conquer
-**Tags:** algo-master-75
-
-**LeetCode:** [Problem 4](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
 ## Problem Description
 

@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [array, hash-table, sorting]
+tags: [grind-75]
+url: https://leetcode.com/problems/contains-duplicate/description/
+---
+
 # Contains Duplicate
-
-**Difficulty:** Easy
-**Topics:** Array, Hash Table, Sorting
-**Tags:** grind-75
-
-**LeetCode:** [Problem 217](https://leetcode.com/problems/contains-duplicate/description/)
 
 ## Problem Description
 

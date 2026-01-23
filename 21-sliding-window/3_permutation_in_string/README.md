@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [hash-table, two-pointers, string, sliding-window]
+tags: [blind-75]
+url: https://leetcode.com/problems/permutation-in-string/description/
+---
+
 # Permutation in String
-
-**Difficulty:** Medium
-**Topics:** Hash Table, Two Pointers, String, Sliding Window
-**Tags:** blind-75
-
-**LeetCode:** [Problem 567](https://leetcode.com/problems/permutation-in-string/description/)
 
 ## Problem Description
 

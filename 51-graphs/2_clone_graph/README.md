@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [hash-table, depth-first-search, breadth-first-search, graph]
+tags: [grind-75]
+url: https://leetcode.com/problems/clone-graph/description/
+---
+
 # Clone Graph
-
-**Difficulty:** Medium
-**Topics:** Hash Table, Depth-First Search, Breadth-First Search, Graph
-**Tags:** grind-75
-
-**LeetCode:** [Problem 133](https://leetcode.com/problems/clone-graph/description/)
 
 ## Problem Description
 

@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [dynamic-programming, depth-first-search, breadth-first-search, graph, heap-priority-queue, shortest-path]
+tags: []
+url: https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
+---
+
 # Cheapest Flights Within K Stops
-
-**Difficulty:** Medium
-**Topics:** Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path
-
-**LeetCode:** [Problem 787](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
 
 ## Problem Description
 

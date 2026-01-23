@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [array, divide-and-conquer, sorting, heap-priority-queue, quickselect]
+tags: []
+url: https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+---
+
 # Kth Largest Element in an Array
-
-**Difficulty:** Medium
-**Topics:** Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect
-
-**LeetCode:** [Problem 215](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 
 ## Problem Description
 

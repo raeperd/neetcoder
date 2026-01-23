@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [math, dynamic-programming, memoization]
+tags: [grind-75]
+url: https://leetcode.com/problems/climbing-stairs/description/
+---
+
 # Climbing Stairs
-
-**Difficulty:** Easy
-**Topics:** Math, Dynamic Programming, Memoization
-**Tags:** grind-75
-
-**LeetCode:** [Problem 70](https://leetcode.com/problems/climbing-stairs/description/)
 
 ## Problem Description
 

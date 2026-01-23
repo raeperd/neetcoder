@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, depth-first-search, breadth-first-search, union-find, matrix]
+tags: [grind-75]
+url: https://leetcode.com/problems/number-of-islands/description/
+---
+
 # Number of Islands
-
-**Difficulty:** Medium
-**Topics:** Array, Depth-First Search, Breadth-First Search, Union Find, Matrix
-**Tags:** grind-75
-
-**LeetCode:** [Problem 200](https://leetcode.com/problems/number-of-islands/description/)
 
 ## Problem Description
 

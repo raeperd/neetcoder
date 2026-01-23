@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [array, hash-table, greedy, sorting]
+tags: []
+url: https://leetcode.com/problems/hand-of-straights/description/
+---
+
 # Hand of Straights
-
-**Difficulty:** Medium
-**Topics:** Array, Hash Table, Greedy, Sorting
-
-**LeetCode:** [Problem 846](https://leetcode.com/problems/hand-of-straights/description/)
 
 ## Problem Description
 

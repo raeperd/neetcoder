@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, hash-table, divide-and-conquer, sorting, heap-priority-queue, bucket-sort, counting, quickselect]
+tags: [blind-75]
+url: https://leetcode.com/problems/top-k-frequent-elements/description/
+---
+
 # Top K Frequent Elements
-
-**Difficulty:** Medium
-**Topics:** Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect
-**Tags:** blind-75
-
-**LeetCode:** [Problem 347](https://leetcode.com/problems/top-k-frequent-elements/description/)
 
 ## Problem Description
 

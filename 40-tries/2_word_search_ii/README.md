@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [array, string, backtracking, trie, matrix]
+tags: [blind-75]
+url: https://leetcode.com/problems/word-search-ii/description/
+---
+
 # Word Search II
-
-**Difficulty:** Hard
-**Topics:** Array, String, Backtracking, Trie, Matrix
-**Tags:** blind-75
-
-**LeetCode:** [Problem 212](https://leetcode.com/problems/word-search-ii/description/)
 
 ## Problem Description
 

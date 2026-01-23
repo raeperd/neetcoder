@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, breadth-first-search, matrix]
+tags: [grind-75]
+url: https://leetcode.com/problems/rotting-oranges/description/
+---
+
 # Rotting Oranges
-
-**Difficulty:** Medium
-**Topics:** Array, Breadth-First Search, Matrix
-**Tags:** grind-75
-
-**LeetCode:** [Problem 994](https://leetcode.com/problems/rotting-oranges/description/)
 
 ## Problem Description
 

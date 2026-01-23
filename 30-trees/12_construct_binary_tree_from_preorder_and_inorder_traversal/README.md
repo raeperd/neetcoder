@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, hash-table, divide-and-conquer, tree, binary-tree]
+tags: [grind-75]
+url: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+---
+
 # Construct Binary Tree from Preorder and Inorder Traversal
-
-**Difficulty:** Medium
-**Topics:** Array, Hash Table, Divide and Conquer, Tree, Binary Tree
-**Tags:** grind-75
-
-**LeetCode:** [Problem 105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
 
 ## Problem Description
 

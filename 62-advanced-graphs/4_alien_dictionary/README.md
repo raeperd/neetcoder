@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [array, string, depth-first-search, breadth-first-search, graph, topological-sort]
+tags: [grind-75, grind]
+url: https://leetcode.com/problems/alien-dictionary/description/
+---
+
 # Alien Dictionary
-
-**Difficulty:** Hard
-**Topics:** Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort
-**Tags:** grind-75, grind
-
-**LeetCode:** [Problem 269](https://leetcode.com/problems/alien-dictionary/description/)
 
 ## Problem Description
 

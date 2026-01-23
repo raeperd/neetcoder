@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, backtracking, bit-manipulation]
+tags: [grind-75]
+url: https://leetcode.com/problems/subsets/description/
+---
+
 # Subsets
-
-**Difficulty:** Medium
-**Topics:** Array, Backtracking, Bit Manipulation
-**Tags:** grind-75
-
-**LeetCode:** [Problem 78](https://leetcode.com/problems/subsets/description/)
 
 ## Problem Description
 

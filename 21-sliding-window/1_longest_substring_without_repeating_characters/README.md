@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [hash-table, string, sliding-window]
+tags: [grind-75]
+url: https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+---
+
 # Longest Substring Without Repeating Characters
-
-**Difficulty:** Medium
-**Topics:** Hash Table, String, Sliding Window
-**Tags:** grind-75
-
-**LeetCode:** [Problem 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 ## Problem Description
 

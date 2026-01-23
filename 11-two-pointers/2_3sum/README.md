@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, two-pointers, sorting]
+tags: [grind-75]
+url: https://leetcode.com/problems/three-sum/description/
+---
+
 # 3Sum
-
-**Difficulty:** Medium
-**Topics:** Array, Two Pointers, Sorting
-**Tags:** grind-75
-
-**LeetCode:** [Problem 15](https://leetcode.com/problems/three-sum/description/)
 
 ## Problem Description
 

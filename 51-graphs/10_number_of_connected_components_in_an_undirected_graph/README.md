@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [depth-first-search, breadth-first-search, union-find, graph]
+tags: [blind-75]
+url: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/
+---
+
 # Number of Connected Components in an Undirected Graph
-
-**Difficulty:** Medium
-**Topics:** Depth-First Search, Breadth-First Search, Union Find, Graph
-**Tags:** blind-75
-
-**LeetCode:** [Problem 323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)
 
 ## Problem Description
 

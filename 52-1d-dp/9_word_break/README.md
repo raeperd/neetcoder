@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, hash-table, string, dynamic-programming, trie, memoization]
+tags: [grind-75]
+url: https://leetcode.com/problems/word-break/description/
+---
+
 # Word Break
-
-**Difficulty:** Medium
-**Topics:** Array, Hash Table, String, Dynamic Programming, Trie, Memoization
-**Tags:** grind-75
-
-**LeetCode:** [Problem 139](https://leetcode.com/problems/word-break/description/)
 
 ## Problem Description
 

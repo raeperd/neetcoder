@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, two-pointers, binary-search, bit-manipulation]
+tags: [grind]
+url: https://leetcode.com/problems/find-the-duplicate-number/description/
+---
+
 # Find the Duplicate Number
-
-**Difficulty:** Medium
-**Topics:** Array, Two Pointers, Binary Search, Bit Manipulation
-**Tags:** grind
-
-**LeetCode:** [Problem 287](https://leetcode.com/problems/find-the-duplicate-number/description/)
 
 ## Problem Description
 

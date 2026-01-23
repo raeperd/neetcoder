@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [array, breadth-first-search, matrix]
+tags: []
+url: https://leetcode.com/problems/walls-and-gates/description/
+---
+
 # Walls and Gates
-
-**Difficulty:** Medium
-**Topics:** Array, Breadth-First Search, Matrix
-
-**LeetCode:** [Problem 286](https://leetcode.com/problems/walls-and-gates/description/)
 
 ## Problem Description
 

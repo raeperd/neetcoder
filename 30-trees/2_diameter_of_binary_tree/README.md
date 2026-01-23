@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [tree, depth-first-search, binary-tree]
+tags: [grind-75]
+url: https://leetcode.com/problems/diameter-of-binary-tree/description/
+---
+
 # Diameter of Binary Tree
-
-**Difficulty:** Easy
-**Topics:** Tree, Depth-First Search, Binary Tree
-**Tags:** grind-75
-
-**LeetCode:** [Problem 543](https://leetcode.com/problems/diameter-of-binary-tree/description/)
 
 ## Problem Description
 

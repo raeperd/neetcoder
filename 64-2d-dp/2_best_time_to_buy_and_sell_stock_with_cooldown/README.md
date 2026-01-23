@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, dynamic-programming]
+tags: [blind-75]
+url: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/
+---
+
 # Best Time to Buy and Sell Stock with Cooldown
-
-**Difficulty:** Medium
-**Topics:** Array, Dynamic Programming
-**Tags:** blind-75
-
-**LeetCode:** [Problem 309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
 
 ## Problem Description
 

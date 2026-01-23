@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [hash-table, linked-list]
+tags: [blind-75]
+url: https://leetcode.com/problems/copy-list-with-random-pointer/description/
+---
+
 # Copy List with Random Pointer
-
-**Difficulty:** Medium
-**Topics:** Hash Table, Linked List
-**Tags:** blind-75
-
-**LeetCode:** [Problem 138](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
 
 ## Problem Description
 

@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [linked-list, two-pointers, stack, recursion]
+tags: [blind-75]
+url: https://leetcode.com/problems/reorder-list/description/
+---
+
 # Reorder List
-
-**Difficulty:** Medium
-**Topics:** Linked List, Two Pointers, Stack, Recursion
-**Tags:** blind-75
-
-**LeetCode:** [Problem 143](https://leetcode.com/problems/reorder-list/description/)
 
 ## Problem Description
 

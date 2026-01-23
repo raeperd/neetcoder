@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, hash-table, union-find]
+tags: [grind]
+url: https://leetcode.com/problems/longest-consecutive-sequence/description/
+---
+
 # Longest Consecutive Sequence
-
-**Difficulty:** Medium
-**Topics:** Array, Hash Table, Union Find
-**Tags:** grind
-
-**LeetCode:** [Problem 128](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 
 ## Problem Description
 

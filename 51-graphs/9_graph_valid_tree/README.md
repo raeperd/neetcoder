@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [depth-first-search, breadth-first-search, union-find, graph]
+tags: [blind-75]
+url: https://leetcode.com/problems/graph-valid-tree/description/
+---
+
 # Graph Valid Tree
-
-**Difficulty:** Medium
-**Topics:** Depth-First Search, Breadth-First Search, Union Find, Graph
-**Tags:** blind-75
-
-**LeetCode:** [Problem 261](https://leetcode.com/problems/graph-valid-tree/description/)
 
 ## Problem Description
 

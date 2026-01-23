@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, math, matrix]
+tags: [blind]
+url: https://leetcode.com/problems/rotate-image/description/
+---
+
 # Rotate Image
-
-**Difficulty:** Medium
-**Topics:** Array, Math, Matrix
-**Tags:** blind
-
-**LeetCode:** [Problem 48](https://leetcode.com/problems/rotate-image/description/)
 
 ## Problem Description
 

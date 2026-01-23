@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [two-pointers, design, sorting, heap-priority-queue, data-stream]
+tags: [grind-75]
+url: https://leetcode.com/problems/find-median-from-data-stream/description/
+---
+
 # Find Median from Data Stream
-
-**Difficulty:** Hard
-**Topics:** Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream
-**Tags:** grind-75
-
-**LeetCode:** [Problem 295](https://leetcode.com/problems/find-median-from-data-stream/description/)
 
 ## Problem Description
 

@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [hash-table, string, sliding-window]
+tags: [grind-75]
+url: https://leetcode.com/problems/minimum-window-substring/description/
+---
+
 # Minimum Window Substring
-
-**Difficulty:** Hard
-**Topics:** Hash Table, String, Sliding Window
-**Tags:** grind-75
-
-**LeetCode:** [Problem 76](https://leetcode.com/problems/minimum-window-substring/description/)
 
 ## Problem Description
 

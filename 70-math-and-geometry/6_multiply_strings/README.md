@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [math, string, simulation]
+tags: [blind-75]
+url: https://leetcode.com/problems/multiply-strings/description/
+---
+
 # Multiply Strings
-
-**Difficulty:** Medium
-**Topics:** Math, String, Simulation
-**Tags:** blind-75
-
-**LeetCode:** [Problem 43](https://leetcode.com/problems/multiply-strings/description/)
 
 ## Problem Description
 

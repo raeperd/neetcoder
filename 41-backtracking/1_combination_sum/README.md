@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, backtracking]
+tags: [grind-75]
+url: https://leetcode.com/problems/combination-sum/description/
+---
+
 # Combination Sum
-
-**Difficulty:** Medium
-**Topics:** Array, Backtracking
-**Tags:** grind-75
-
-**LeetCode:** [Problem 39](https://leetcode.com/problems/combination-sum/description/)
 
 ## Problem Description
 

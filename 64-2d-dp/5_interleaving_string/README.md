@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [string, dynamic-programming]
+tags: [blind-75]
+url: https://leetcode.com/problems/interleaving-string/description/
+---
+
 # Interleaving String
-
-**Difficulty:** Medium
-**Topics:** String, Dynamic Programming
-**Tags:** blind-75
-
-**LeetCode:** [Problem 97](https://leetcode.com/problems/interleaving-string/description/)
 
 ## Problem Description
 

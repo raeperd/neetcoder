@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, hash-table, matrix]
+tags: [grind]
+url: https://leetcode.com/problems/valid-sudoku/description/
+---
+
 # Valid Sudoku
-
-**Difficulty:** Medium
-**Topics:** Array, Hash Table, Matrix
-**Tags:** grind
-
-**LeetCode:** [Problem 36](https://leetcode.com/problems/valid-sudoku/description/)
 
 ## Problem Description
 

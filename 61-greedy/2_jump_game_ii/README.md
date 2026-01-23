@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [array, dynamic-programming, greedy]
+tags: []
+url: https://leetcode.com/problems/jump-game-ii/description/
+---
+
 # Jump Game II
-
-**Difficulty:** Medium
-**Topics:** Array, Dynamic Programming, Greedy
-
-**LeetCode:** [Problem 45](https://leetcode.com/problems/jump-game-ii/description/)
 
 ## Problem Description
 

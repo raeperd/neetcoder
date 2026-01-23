@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, backtracking]
+tags: [grind-75]
+url: https://leetcode.com/problems/permutations/description/
+---
+
 # Permutations
-
-**Difficulty:** Medium
-**Topics:** Array, Backtracking
-**Tags:** grind-75
-
-**LeetCode:** [Problem 46](https://leetcode.com/problems/permutations/description/)
 
 ## Problem Description
 

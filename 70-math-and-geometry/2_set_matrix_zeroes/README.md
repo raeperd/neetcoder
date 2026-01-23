@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, hash-table, matrix]
+tags: [blind-75]
+url: https://leetcode.com/problems/set-matrix-zeroes/description/
+---
+
 # Set Matrix Zeroes
-
-**Difficulty:** Medium
-**Topics:** Array, Hash Table, Matrix
-**Tags:** blind-75
-
-**LeetCode:** [Problem 73](https://leetcode.com/problems/set-matrix-zeroes/description/)
 
 ## Problem Description
 

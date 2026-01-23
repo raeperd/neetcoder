@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [string, dynamic-programming, stack, greedy]
+tags: []
+url: https://leetcode.com/problems/valid-parenthesis-string/description/
+---
+
 # Valid Parenthesis String
-
-**Difficulty:** Medium
-**Topics:** String, Dynamic Programming, Stack, Greedy
-
-**LeetCode:** [Problem 678](https://leetcode.com/problems/valid-parenthesis-string/description/)
 
 ## Problem Description
 

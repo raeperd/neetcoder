@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [string, dynamic-programming, backtracking]
+tags: [grind-75]
+url: https://leetcode.com/problems/generate-parentheses/description/
+---
+
 # Generate Parentheses
-
-**Difficulty:** Medium
-**Topics:** String, Dynamic Programming, Backtracking
-**Tags:** grind-75
-
-**LeetCode:** [Problem 22](https://leetcode.com/problems/generate-parentheses/description/)
 
 ## Problem Description
 

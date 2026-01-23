@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, binary-search, matrix]
+tags: [blind-75]
+url: https://leetcode.com/problems/search-a-2d-matrix/description/
+---
+
 # Search a 2D Matrix
-
-**Difficulty:** Medium
-**Topics:** Array, Binary Search, Matrix
-**Tags:** blind-75
-
-**LeetCode:** [Problem 74](https://leetcode.com/problems/search-a-2d-matrix/description/)
 
 ## Problem Description
 

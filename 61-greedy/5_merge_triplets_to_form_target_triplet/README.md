@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [array, greedy]
+tags: []
+url: https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/
+---
+
 # Merge Triplets to Form Target Triplet
-
-**Difficulty:** Medium
-**Topics:** Array, Greedy
-
-**LeetCode:** [Problem 1899](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/)
 
 ## Problem Description
 

@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [hash-table, string, breadth-first-search]
+tags: [grind-75]
+url: https://leetcode.com/problems/word-ladder/description/
+---
+
 # Word Ladder
-
-**Difficulty:** Hard
-**Topics:** Hash Table, String, Breadth-First Search
-**Tags:** grind-75
-
-**LeetCode:** [Problem 127](https://leetcode.com/problems/word-ladder/description/)
 
 ## Problem Description
 

@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, dynamic-programming, breadth-first-search]
+tags: [grind-75]
+url: https://leetcode.com/problems/coin-change/description/
+---
+
 # Coin Change
-
-**Difficulty:** Medium
-**Topics:** Array, Dynamic Programming, Breadth-First Search
-**Tags:** grind-75
-
-**LeetCode:** [Problem 322](https://leetcode.com/problems/coin-change/description/)
 
 ## Problem Description
 

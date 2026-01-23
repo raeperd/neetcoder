@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [two-pointers, string]
+tags: [grind-75]
+url: https://leetcode.com/problems/valid-palindrome/description/
+---
+
 # Valid Palindrome
-
-**Difficulty:** Easy
-**Topics:** Two Pointers, String
-**Tags:** grind-75
-
-**LeetCode:** [Problem 125](https://leetcode.com/problems/valid-palindrome/description/)
 
 ## Problem Description
 

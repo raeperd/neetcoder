@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [two-pointers, string, dynamic-programming]
+tags: [grind-75]
+url: https://leetcode.com/problems/longest-palindromic-substring/description/
+---
+
 # Longest Palindromic Substring
-
-**Difficulty:** Medium
-**Topics:** Two Pointers, String, Dynamic Programming
-**Tags:** grind-75
-
-**LeetCode:** [Problem 5](https://leetcode.com/problems/longest-palindromic-substring/description/)
 
 ## Problem Description
 

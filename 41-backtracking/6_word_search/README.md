@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, string, backtracking, depth-first-search, matrix]
+tags: [grind-75]
+url: https://leetcode.com/problems/word-search/description/
+---
+
 # Word Search
-
-**Difficulty:** Medium
-**Topics:** Array, String, Backtracking, Depth-First Search, Matrix
-**Tags:** grind-75
-
-**LeetCode:** [Problem 79](https://leetcode.com/problems/word-search/description/)
 
 ## Problem Description
 

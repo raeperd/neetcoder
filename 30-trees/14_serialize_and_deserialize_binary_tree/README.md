@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [string, tree, depth-first-search, breadth-first-search, design, binary-tree]
+tags: [grind-75]
+url: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/
+---
+
 # Serialize and Deserialize Binary Tree
-
-**Difficulty:** Hard
-**Topics:** String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree
-**Tags:** grind-75
-
-**LeetCode:** [Problem 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 
 ## Problem Description
 

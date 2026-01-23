@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [string, dynamic-programming]
+tags: [blind-75]
+url: https://leetcode.com/problems/decode-ways/description/
+---
+
 # Decode Ways
-
-**Difficulty:** Medium
-**Topics:** String, Dynamic Programming
-**Tags:** blind-75
-
-**LeetCode:** [Problem 91](https://leetcode.com/problems/decode-ways/description/)
 
 ## Problem Description
 

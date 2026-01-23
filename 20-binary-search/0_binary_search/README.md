@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [array, binary-search]
+tags: [grind-75]
+url: https://leetcode.com/problems/binary-search/description/
+---
+
 # Binary Search
-
-**Difficulty:** Easy
-**Topics:** Array, Binary Search
-**Tags:** grind-75
-
-**LeetCode:** [Problem 704](https://leetcode.com/problems/binary-search/description/)
 
 ## Problem Description
 

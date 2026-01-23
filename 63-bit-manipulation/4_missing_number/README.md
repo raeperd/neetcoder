@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [array, hash-table, math, binary-search, bit-manipulation, sorting]
+tags: [neetcode-150, blind-75]
+url: https://leetcode.com/problems/missing-number/description/
+---
+
 # Missing Number
-
-**Difficulty:** Easy
-**Topics:** Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting
-**Tags:** neetcode-150, blind-75
-
-**LeetCode:** [Problem 268](https://leetcode.com/problems/missing-number/description/)
 
 ## Problem Description
 

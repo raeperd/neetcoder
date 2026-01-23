@@ -1,9 +1,11 @@
+---
+difficulty: easy
+topics: [array, heap-priority-queue]
+tags: []
+url: https://leetcode.com/problems/last-stone-weight/description/
+---
+
 # Last Stone Weight
-
-**Difficulty:** Easy
-**Topics:** Array, Heap (Priority Queue)
-
-**LeetCode:** [Problem 1046](https://leetcode.com/problems/last-stone-weight/description/)
 
 ## Problem Description
 

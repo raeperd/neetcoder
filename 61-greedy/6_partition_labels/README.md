@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [hash-table, two-pointers, string, greedy]
+tags: []
+url: https://leetcode.com/problems/partition-labels/description/
+---
+
 # Partition Labels
-
-**Difficulty:** Medium
-**Topics:** Hash Table, Two Pointers, String, Greedy
-
-**LeetCode:** [Problem 763](https://leetcode.com/problems/partition-labels/description/)
 
 ## Problem Description
 

@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [hash-table, linked-list, design, heap-priority-queue]
+tags: []
+url: https://leetcode.com/problems/design-twitter/description/
+---
+
 # Design Twitter
-
-**Difficulty:** Medium
-**Topics:** Hash Table, Linked List, Design, Heap (Priority Queue)
-
-**LeetCode:** [Problem 355](https://leetcode.com/problems/design-twitter/description/)
 
 ## Problem Description
 

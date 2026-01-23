@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [tree, depth-first-search, breadth-first-search, binary-tree]
+tags: [grind-75]
+url: https://leetcode.com/problems/invert-binary-tree/description/
+---
+
 # Invert Binary Tree
-
-**Difficulty:** Easy
-**Topics:** Tree, Depth-First Search, Breadth-First Search, Binary Tree
-**Tags:** grind-75
-
-**LeetCode:** [Problem 226](https://leetcode.com/problems/invert-binary-tree/description/)
 
 ## Problem Description
 

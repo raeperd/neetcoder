@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [string, dynamic-programming, backtracking]
+tags: [grind-75]
+url: https://leetcode.com/problems/palindrome-partitioning/description/
+---
+
 # Palindrome Partitioning
-
-**Difficulty:** Medium
-**Topics:** String, Dynamic Programming, Backtracking
-**Tags:** grind-75
-
-**LeetCode:** [Problem 131](https://leetcode.com/problems/palindrome-partitioning/description/)
 
 ## Problem Description
 

@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [tree, depth-first-search, binary-search-tree, binary-tree]
+tags: [grind-75]
+url: https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
+---
+
 # Kth Smallest Element in a BST
-
-**Difficulty:** Medium
-**Topics:** Tree, Depth-First Search, Binary Search Tree, Binary Tree
-**Tags:** grind-75
-
-**LeetCode:** [Problem 230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 
 ## Problem Description
 

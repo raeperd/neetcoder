@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, divide-and-conquer, dynamic-programming]
+tags: [grind-75]
+url: https://leetcode.com/problems/maximum-subarray/description/
+---
+
 # Maximum Subarray
-
-**Difficulty:** Medium
-**Topics:** Array, Divide and Conquer, Dynamic Programming
-**Tags:** grind-75
-
-**LeetCode:** [Problem 53](https://leetcode.com/problems/maximum-subarray/description/)
 
 ## Problem Description
 

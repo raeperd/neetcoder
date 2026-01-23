@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, stack, sorting, monotonic-stack]
+tags: [neetcode]
+url: https://leetcode.com/problems/car-fleet/description/
+---
+
 # Car Fleet
-
-**Difficulty:** Medium
-**Topics:** Array, Stack, Sorting, Monotonic Stack
-**Tags:** neetcode
-
-**LeetCode:** [Problem 853](https://leetcode.com/problems/car-fleet/description/)
 
 ## Problem Description
 

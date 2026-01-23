@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, dynamic-programming, greedy, sorting]
+tags: [blind-75]
+url: https://leetcode.com/problems/non-overlapping-intervals/description/
+---
+
 # Non-overlapping Intervals
-
-**Difficulty:** Medium
-**Topics:** Array, Dynamic Programming, Greedy, Sorting
-**Tags:** blind-75
-
-**LeetCode:** [Problem 435](https://leetcode.com/problems/non-overlapping-intervals/description/)
 
 ## Problem Description
 

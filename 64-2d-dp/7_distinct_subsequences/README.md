@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [string, dynamic-programming]
+tags: [blind-75]
+url: https://leetcode.com/problems/distinct-subsequences/description/
+---
+
 # Distinct Subsequences
-
-**Difficulty:** Hard
-**Topics:** String, Dynamic Programming
-**Tags:** blind-75
-
-**LeetCode:** [Problem 115](https://leetcode.com/problems/distinct-subsequences/description/)
 
 ## Problem Description
 

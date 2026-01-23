@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, binary-search, dynamic-programming]
+tags: [grind]
+url: https://leetcode.com/problems/longest-increasing-subsequence/description/
+---
+
 # Longest Increasing Subsequence
-
-**Difficulty:** Medium
-**Topics:** Array, Binary Search, Dynamic Programming
-**Tags:** grind
-
-**LeetCode:** [Problem 300](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 
 ## Problem Description
 

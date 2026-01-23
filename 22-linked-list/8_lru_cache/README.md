@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [hash-table, linked-list, design, doubly-linked-list]
+tags: [grind-75]
+url: https://leetcode.com/problems/lru-cache/description/
+---
+
 # LRU Cache
-
-**Difficulty:** Medium
-**Topics:** Hash Table, Linked List, Design, Doubly-Linked List
-**Tags:** grind-75
-
-**LeetCode:** [Problem 146](https://leetcode.com/problems/lru-cache/description/)
 
 ## Problem Description
 

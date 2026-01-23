@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array]
+tags: [grind-75]
+url: https://leetcode.com/problems/insert-interval/description/
+---
+
 # Insert Interval
-
-**Difficulty:** Medium
-**Topics:** Array
-**Tags:** grind-75
-
-**LeetCode:** [Problem 57](https://leetcode.com/problems/insert-interval/description/)
 
 ## Problem Description
 

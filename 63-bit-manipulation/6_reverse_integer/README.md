@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [math]
+tags: [algo-master-75]
+url: https://leetcode.com/problems/reverse-integer/description/
+---
+
 # Reverse Integer
-
-**Difficulty:** Medium
-**Topics:** Math
-**Tags:** algo-master-75
-
-**LeetCode:** [Problem 7](https://leetcode.com/problems/reverse-integer/description/)
 
 ## Problem Description
 

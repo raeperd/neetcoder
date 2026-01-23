@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [hash-table, linked-list, two-pointers]
+tags: [grind-75]
+url: https://leetcode.com/problems/linked-list-cycle/description/
+---
+
 # Linked List Cycle
-
-**Difficulty:** Easy
-**Topics:** Hash Table, Linked List, Two Pointers
-**Tags:** grind-75
-
-**LeetCode:** [Problem 141](https://leetcode.com/problems/linked-list-cycle/description/)
 
 ## Problem Description
 

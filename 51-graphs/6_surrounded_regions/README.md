@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [array, depth-first-search, breadth-first-search, union-find, matrix]
+tags: []
+url: https://leetcode.com/problems/surrounded-regions/description/
+---
+
 # Surrounded Regions
-
-**Difficulty:** Medium
-**Topics:** Array, Depth-First Search, Breadth-First Search, Union Find, Matrix
-
-**LeetCode:** [Problem 130](https://leetcode.com/problems/surrounded-regions/description/)
 
 ## Problem Description
 

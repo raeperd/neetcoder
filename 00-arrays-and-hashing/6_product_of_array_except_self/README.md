@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, prefix-sum]
+tags: [grind-75]
+url: https://leetcode.com/problems/product-of-array-except-self/description/
+---
+
 # Product of Array Except Self
-
-**Difficulty:** Medium
-**Topics:** Array, Prefix Sum
-**Tags:** grind-75
-
-**LeetCode:** [Problem 238](https://leetcode.com/problems/product-of-array-except-self/description/)
 
 ## Problem Description
 

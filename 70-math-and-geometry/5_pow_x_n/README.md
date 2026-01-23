@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [math, recursion]
+tags: [blind-75]
+url: https://leetcode.com/problems/powx-n/description/
+---
+
 # Pow(x, n)
-
-**Difficulty:** Medium
-**Topics:** Math, Recursion
-**Tags:** blind-75
-
-**LeetCode:** [Problem 50](https://leetcode.com/problems/powx-n/description/)
 
 ## Problem Description
 

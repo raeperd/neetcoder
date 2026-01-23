@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [tree, depth-first-search, breadth-first-search, binary-tree]
+tags: [blind-75]
+url: https://leetcode.com/problems/same-tree/description/
+---
+
 # Same Tree
-
-**Difficulty:** Easy
-**Topics:** Tree, Depth-First Search, Breadth-First Search, Binary Tree
-**Tags:** blind-75
-
-**LeetCode:** [Problem 100](https://leetcode.com/problems/same-tree/description/)
 
 ## Problem Description
 

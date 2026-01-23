@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [dynamic-programming, tree, depth-first-search, binary-tree]
+tags: [blind-75]
+url: https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
+---
+
 # Binary Tree Maximum Path Sum
-
-**Difficulty:** Hard
-**Topics:** Dynamic Programming, Tree, Depth-First Search, Binary Tree
-**Tags:** blind-75
-
-**LeetCode:** [Problem 124](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
 
 ## Problem Description
 

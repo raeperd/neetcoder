@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [tree, breadth-first-search, binary-tree]
+tags: [grind-75]
+url: https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+---
+
 # Binary Tree Level Order Traversal
-
-**Difficulty:** Medium
-**Topics:** Tree, Breadth-First Search, Binary Tree
-**Tags:** grind-75
-
-**LeetCode:** [Problem 102](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 
 ## Problem Description
 

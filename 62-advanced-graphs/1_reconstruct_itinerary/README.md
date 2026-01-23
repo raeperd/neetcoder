@@ -1,9 +1,11 @@
+---
+difficulty: hard
+topics: [depth-first-search, graph, eulerian-circuit]
+tags: []
+url: https://leetcode.com/problems/reconstruct-itinerary/description/
+---
+
 # Reconstruct Itinerary
-
-**Difficulty:** Hard
-**Topics:** Depth-First Search, Graph, Eulerian Circuit
-
-**LeetCode:** [Problem 332](https://leetcode.com/problems/reconstruct-itinerary/description/)
 
 ## Problem Description
 

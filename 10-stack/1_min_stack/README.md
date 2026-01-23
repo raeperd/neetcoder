@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [stack, design]
+tags: [grind-75]
+url: https://leetcode.com/problems/min-stack/description/
+---
+
 # Min Stack
-
-**Difficulty:** Medium
-**Topics:** Stack, Design
-**Tags:** grind-75
-
-**LeetCode:** [Problem 155](https://leetcode.com/problems/min-stack/description/)
 
 ## Problem Description
 

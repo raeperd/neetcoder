@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, sorting]
+tags: [grind-75]
+url: https://leetcode.com/problems/merge-intervals/description/
+---
+
 # Merge Intervals
-
-**Difficulty:** Medium
-**Topics:** Array, Sorting
-**Tags:** grind-75
-
-**LeetCode:** [Problem 56](https://leetcode.com/problems/merge-intervals/description/)
 
 ## Problem Description
 

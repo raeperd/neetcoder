@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, backtracking, bit-manipulation]
+tags: [neetcode-150]
+url: https://leetcode.com/problems/subsets-ii/description/
+---
+
 # Subsets II
-
-**Difficulty:** Medium
-**Topics:** Array, Backtracking, Bit Manipulation
-**Tags:** neetcode-150
-
-**LeetCode:** [Problem 90](https://leetcode.com/problems/subsets-ii/description/)
 
 ## Problem Description
 

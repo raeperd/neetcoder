@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [array, bit-manipulation]
+tags: [blind-75]
+url: https://leetcode.com/problems/single-number/description/
+---
+
 # Single Number
-
-**Difficulty:** Easy
-**Topics:** Array, Bit Manipulation
-**Tags:** blind-75
-
-**LeetCode:** [Problem 136](https://leetcode.com/problems/single-number/description/)
 
 ## Problem Description
 

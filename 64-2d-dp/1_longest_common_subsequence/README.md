@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [string, dynamic-programming]
+tags: [blind-75]
+url: https://leetcode.com/problems/longest-common-subsequence/description/
+---
+
 # Longest Common Subsequence
-
-**Difficulty:** Medium
-**Topics:** String, Dynamic Programming
-**Tags:** blind-75
-
-**LeetCode:** [Problem 1143](https://leetcode.com/problems/longest-common-subsequence/description/)
 
 ## Problem Description
 

@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [math, dynamic-programming, combinatorics]
+tags: [grind-75]
+url: https://leetcode.com/problems/unique-paths/description/
+---
+
 # Unique Paths
-
-**Difficulty:** Medium
-**Topics:** Math, Dynamic Programming, Combinatorics
-**Tags:** grind-75
-
-**LeetCode:** [Problem 62](https://leetcode.com/problems/unique-paths/description/)
 
 ## Problem Description
 

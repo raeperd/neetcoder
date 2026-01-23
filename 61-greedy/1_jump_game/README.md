@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, dynamic-programming, greedy]
+tags: [blind-75]
+url: https://leetcode.com/problems/jump-game/description/
+---
+
 # Jump Game
-
-**Difficulty:** Medium
-**Topics:** Array, Dynamic Programming, Greedy
-**Tags:** blind-75
-
-**LeetCode:** [Problem 55](https://leetcode.com/problems/jump-game/description/)
 
 ## Problem Description
 

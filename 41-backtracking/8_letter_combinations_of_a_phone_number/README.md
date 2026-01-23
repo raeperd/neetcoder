@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [hash-table, string, backtracking]
+tags: [grind-75]
+url: https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+---
+
 # Letter Combinations of a Phone Number
-
-**Difficulty:** Medium
-**Topics:** Hash Table, String, Backtracking
-**Tags:** grind-75
-
-**LeetCode:** [Problem 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 
 ## Problem Description
 

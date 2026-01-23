@@ -1,9 +1,11 @@
+---
+difficulty: medium
+topics: [depth-first-search, breadth-first-search, graph, heap-priority-queue, shortest-path]
+tags: []
+url: https://leetcode.com/problems/network-delay-time/description/
+---
+
 # Network Delay Time
-
-**Difficulty:** Medium
-**Topics:** Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path
-
-**LeetCode:** [Problem 743](https://leetcode.com/problems/network-delay-time/description/)
 
 ## Problem Description
 

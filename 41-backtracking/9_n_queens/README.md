@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [array, backtracking]
+tags: [neetcode-150]
+url: https://leetcode.com/problems/n-queens/description/
+---
+
 # N-Queens
-
-**Difficulty:** Hard
-**Topics:** Array, Backtracking
-**Tags:** neetcode-150
-
-**LeetCode:** [Problem 51](https://leetcode.com/problems/n-queens/description/)
 
 ## Problem Description
 

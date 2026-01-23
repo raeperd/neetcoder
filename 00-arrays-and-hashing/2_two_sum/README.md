@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [array, hash-table]
+tags: [grind-75]
+url: https://leetcode.com/problems/two-sum/description/
+---
+
 # Two Sum
-
-**Difficulty:** Easy
-**Topics:** Array, Hash Table
-**Tags:** grind-75
-
-**LeetCode:** [Problem 1](https://leetcode.com/problems/two-sum/description/)
 
 ## Problem Description
 

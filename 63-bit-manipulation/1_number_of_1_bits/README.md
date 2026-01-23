@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [divide-and-conquer, bit-manipulation]
+tags: [blind-75]
+url: https://leetcode.com/problems/number-of-1-bits/description/
+---
+
 # Number of 1 Bits
-
-**Difficulty:** Easy
-**Topics:** Divide and Conquer, Bit Manipulation
-**Tags:** blind-75
-
-**LeetCode:** [Problem 191](https://leetcode.com/problems/number-of-1-bits/description/)
 
 ## Problem Description
 

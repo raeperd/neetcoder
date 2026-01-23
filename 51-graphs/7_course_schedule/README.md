@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [depth-first-search, breadth-first-search, graph, topological-sort]
+tags: [grind-75]
+url: https://leetcode.com/problems/course-schedule/description/
+---
+
 # Course Schedule
-
-**Difficulty:** Medium
-**Topics:** Depth-First Search, Breadth-First Search, Graph, Topological Sort
-**Tags:** grind-75
-
-**LeetCode:** [Problem 207](https://leetcode.com/problems/course-schedule/description/)
 
 ## Problem Description
 

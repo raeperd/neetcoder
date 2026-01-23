@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, math, divide-and-conquer, geometry, sorting, heap-priority-queue, quickselect]
+tags: [grind-75]
+url: https://leetcode.com/problems/k-closest-points-to-origin/description/
+---
+
 # K Closest Points to Origin
-
-**Difficulty:** Medium
-**Topics:** Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect
-**Tags:** grind-75
-
-**LeetCode:** [Problem 973](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 
 ## Problem Description
 

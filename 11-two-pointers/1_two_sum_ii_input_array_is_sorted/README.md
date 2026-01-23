@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, two-pointers, binary-search]
+tags: [neetcode]
+url: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+---
+
 # Two Sum II - Input Array Is Sorted
-
-**Difficulty:** Medium
-**Topics:** Array, Two Pointers, Binary Search
-**Tags:** neetcode
-
-**LeetCode:** [Problem 167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 
 ## Problem Description
 

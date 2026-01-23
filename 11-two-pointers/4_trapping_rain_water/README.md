@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [array, two-pointers, dynamic-programming, stack, monotonic-stack]
+tags: [grind-75]
+url: https://leetcode.com/problems/trapping-rain-water/description/
+---
+
 # Trapping Rain Water
-
-**Difficulty:** Hard
-**Topics:** Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack
-**Tags:** grind-75
-
-**LeetCode:** [Problem 42](https://leetcode.com/problems/trapping-rain-water/description/)
 
 ## Problem Description
 

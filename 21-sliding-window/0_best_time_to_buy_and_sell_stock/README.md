@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [array, dynamic-programming]
+tags: [grind-75]
+url: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+---
+
 # Best Time to Buy and Sell Stock
-
-**Difficulty:** Easy
-**Topics:** Array, Dynamic Programming
-**Tags:** grind-75
-
-**LeetCode:** [Problem 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 
 ## Problem Description
 

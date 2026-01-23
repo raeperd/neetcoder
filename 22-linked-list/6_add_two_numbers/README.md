@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [linked-list, math, recursion]
+tags: [algo-master-75]
+url: https://leetcode.com/problems/add-two-numbers/description/
+---
+
 # Add Two Numbers
-
-**Difficulty:** Medium
-**Topics:** Linked List, Math, Recursion
-**Tags:** algo-master-75
-
-**LeetCode:** [Problem 2](https://leetcode.com/problems/add-two-numbers/description/)
 
 ## Problem Description
 

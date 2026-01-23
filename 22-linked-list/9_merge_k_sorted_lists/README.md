@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [linked-list, divide-and-conquer, heap-priority-queue, merge-sort]
+tags: [grind-75]
+url: https://leetcode.com/problems/merge-k-sorted-lists/description/
+---
+
 # Merge k Sorted Lists
-
-**Difficulty:** Hard
-**Topics:** Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
-**Tags:** grind-75
-
-**LeetCode:** [Problem 23](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 
 ## Problem Description
 

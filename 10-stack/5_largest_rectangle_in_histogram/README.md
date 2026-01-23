@@ -1,10 +1,11 @@
+---
+difficulty: hard
+topics: [array, stack, monotonic-stack]
+tags: [grind-75]
+url: https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+---
+
 # Largest Rectangle in Histogram
-
-**Difficulty:** Hard
-**Topics:** Array, Stack, Monotonic Stack
-**Tags:** grind-75
-
-**LeetCode:** [Problem 84](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 
 ## Problem Description
 

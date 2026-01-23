@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [tree, depth-first-search, string-matching, binary-tree, hash-function]
+tags: [blind-75]
+url: https://leetcode.com/problems/subtree-of-another-tree/description/
+---
+
 # Subtree of Another Tree
-
-**Difficulty:** Easy
-**Topics:** Tree, Depth-First Search, String Matching, Binary Tree, Hash Function
-**Tags:** blind-75
-
-**LeetCode:** [Problem 572](https://leetcode.com/problems/subtree-of-another-tree/description/)
 
 ## Problem Description
 

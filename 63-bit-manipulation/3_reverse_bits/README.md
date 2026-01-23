@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [divide-and-conquer, bit-manipulation]
+tags: [blind-75]
+url: https://leetcode.com/problems/reverse-bits/description/
+---
+
 # Reverse Bits
-
-**Difficulty:** Easy
-**Topics:** Divide and Conquer, Bit Manipulation
-**Tags:** blind-75
-
-**LeetCode:** [Problem 190](https://leetcode.com/problems/reverse-bits/description/)
 
 ## Problem Description
 

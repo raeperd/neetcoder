@@ -1,10 +1,11 @@
+---
+difficulty: easy
+topics: [tree, depth-first-search, binary-tree]
+tags: [grind-75]
+url: https://leetcode.com/problems/balanced-binary-tree/description/
+---
+
 # Balanced Binary Tree
-
-**Difficulty:** Easy
-**Topics:** Tree, Depth-First Search, Binary Tree
-**Tags:** grind-75
-
-**LeetCode:** [Problem 110](https://leetcode.com/problems/balanced-binary-tree/description/)
 
 ## Problem Description
 

@@ -1,10 +1,11 @@
+---
+difficulty: medium
+topics: [array, greedy]
+tags: [grind]
+url: https://leetcode.com/problems/gas-station/description/
+---
+
 # Gas Station
-
-**Difficulty:** Medium
-**Topics:** Array, Greedy
-**Tags:** grind
-
-**LeetCode:** [Problem 134](https://leetcode.com/problems/gas-station/description/)
 
 ## Problem Description
 

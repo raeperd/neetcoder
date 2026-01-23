@@ -1,9 +1,11 @@
+---
+difficulty: easy
+topics: [array, dynamic-programming]
+tags: []
+url: https://leetcode.com/problems/min-cost-climbing-stairs/description/
+---
+
 # Min Cost Climbing Stairs
-
-**Difficulty:** Easy
-**Topics:** Array, Dynamic Programming
-
-**LeetCode:** [Problem 746](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 
 ## Problem Description
 
