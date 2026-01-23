@@ -6,33 +6,37 @@ LeetCode practice repository with 150 problems organized by topic following the 
 
 ```
 .
-├── 00-arrays-and-hashing/     # 9 problems
-├── 10-stack/                  # 6 problems
-├── 11-two-pointers/           # 5 problems
-├── 20-binary-search/          # 7 problems
-├── 21-sliding-window/         # 6 problems
-├── 22-linked-list/            # 11 problems
-├── 30-trees/                  # 15 problems
-├── 40-tries/                  # 3 problems
-├── 41-backtracking/           # 10 problems
-├── 50-heap-priority-queue/    # 7 problems
-├── 51-graphs/                 # 13 problems
-├── 52-1d-dp/                  # 12 problems
-├── 60-intervals/              # 6 problems
-├── 61-greedy/                 # 8 problems
-├── 62-advanced-graphs/        # 6 problems
-├── 63-bit-manipulation/       # 7 problems
-├── 64-2d-dp/                  # 11 problems
-└── 70-math-and-geometry/      # 8 problems
-```
-
-Each problem folder contains:
-```
-0_contains_duplicate/
-├── README.md          # Problem description with YAML frontmatter
-├── solution.py        # Solution stub with type hints
-├── solution_test.py   # Tests based on LeetCode examples
-└── __init__.py
+├── 00-arrays-and-hashing/          # 9 problems
+│   ├── 0_contains_duplicate/
+│   │   ├── README.md               # Problem description with YAML frontmatter
+│   │   ├── solution.py             # Solution stub with type hints
+│   │   ├── solution_test.py        # Tests based on LeetCode examples
+│   │   └── __init__.py
+│   ├── 1_valid_anagram/
+│   ├── 2_two_sum/
+│   ├── ...
+│   └── __init__.py
+├── 10-stack/                       # 6 problems
+├── 11-two-pointers/                # 5 problems
+├── 20-binary-search/               # 7 problems
+├── 21-sliding-window/              # 6 problems
+├── 22-linked-list/                 # 11 problems
+├── 30-trees/                       # 15 problems
+├── 40-tries/                       # 3 problems
+├── 41-backtracking/                # 10 problems
+├── 50-heap-priority-queue/         # 7 problems
+├── 51-graphs/                      # 13 problems
+├── 52-1d-dp/                       # 12 problems
+├── 60-intervals/                   # 6 problems
+├── 61-greedy/                      # 8 problems
+├── 62-advanced-graphs/             # 6 problems
+├── 63-bit-manipulation/            # 7 problems
+├── 64-2d-dp/                       # 11 problems
+├── 70-math-and-geometry/           # 8 problems
+├── CLAUDE.md
+├── README.md
+├── pyproject.toml
+└── uv.lock
 ```
 
 ### Why This Structure?
