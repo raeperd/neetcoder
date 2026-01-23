@@ -1,0 +1,32 @@
+from typing import Optional
+
+from .solution import TreeNode, max_path_sum
+
+
+def build_tree(values: list) -> Optional[TreeNode]:
+    if not values or values[0] is None:
+        return None
+    root = TreeNode(values[0])
+    queue = [root]
+    i = 1
+    while queue and i < len(values):
+        node = queue.pop(0)
+        if i < len(values) and values[i] is not None:
+            node.left = TreeNode(values[i])
+            queue.append(node.left)
+        i += 1
+        if i < len(values) and values[i] is not None:
+            node.right = TreeNode(values[i])
+            queue.append(node.right)
+        i += 1
+    return root
+
+
+def test_max_path_sum_example1():
+    root = build_tree([1, 2, 3])
+    assert max_path_sum(root) == 6
+
+
+def test_max_path_sum_example2():
+    root = build_tree([-10, 9, 20, None, None, 15, 7])
+    assert max_path_sum(root) == 42
