@@ -3,4 +3,4 @@ from typing import List
 
 class Solution:
     def countComponents(self, n: int, edges: List[List[int]]) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.countComponents")

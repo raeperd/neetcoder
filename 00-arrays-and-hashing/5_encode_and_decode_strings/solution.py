@@ -3,7 +3,7 @@ from typing import List
 
 class Solution:
     def encode(self, strs: List[str]) -> str:
-        return ""
+        raise NotImplementedError("Implement Solution.encode")
 
     def decode(self, s: str) -> List[str]:
-        return []
+        raise NotImplementedError("Implement Solution.decode")

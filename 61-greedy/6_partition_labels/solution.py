@@ -3,4 +3,4 @@ from typing import List
 
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
-        return []
+        raise NotImplementedError("Implement Solution.partitionLabels")

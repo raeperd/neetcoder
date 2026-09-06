@@ -9,4 +9,4 @@ class ListNode:
 
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        return None
+        raise NotImplementedError("Implement Solution.reverseList")

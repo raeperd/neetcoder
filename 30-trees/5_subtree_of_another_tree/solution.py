@@ -10,4 +10,4 @@ class TreeNode:
 
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], sub_root: Optional[TreeNode]) -> bool:
-        return False
+        raise NotImplementedError("Implement Solution.isSubtree")

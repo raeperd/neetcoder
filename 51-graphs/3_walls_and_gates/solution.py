@@ -6,4 +6,4 @@ class Solution:
         """
         Do not return anything, modify rooms in-place instead.
         """
-        pass
+        raise NotImplementedError("Implement Solution.islandsAndTreasure")

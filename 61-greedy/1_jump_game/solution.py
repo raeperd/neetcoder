@@ -3,4 +3,4 @@ from typing import List
 
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
-        return False
+        raise NotImplementedError("Implement Solution.canJump")

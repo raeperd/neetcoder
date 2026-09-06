@@ -10,4 +10,4 @@ class TreeNode:
 
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        return []
+        raise NotImplementedError("Implement Solution.levelOrder")

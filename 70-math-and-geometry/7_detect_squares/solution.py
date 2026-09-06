@@ -3,10 +3,10 @@ from typing import List
 
 class DetectSquares:
     def __init__(self):
-        pass
+        raise NotImplementedError("Implement DetectSquares.__init__")
 
     def add(self, point: List[int]) -> None:
-        pass
+        raise NotImplementedError("Implement DetectSquares.add")
 
     def count(self, point: List[int]) -> int:
-        return 0
+        raise NotImplementedError("Implement DetectSquares.count")

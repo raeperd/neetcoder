@@ -1,3 +1,3 @@
 class Solution:
     def numDistinct(self, s: str, t: str) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.numDistinct")

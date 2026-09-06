@@ -3,7 +3,7 @@ from typing import List
 
 class KthLargest:
     def __init__(self, k: int, nums: List[int]):
-        pass
+        raise NotImplementedError("Implement KthLargest.__init__")
 
     def add(self, val: int) -> int:
-        return 0
+        raise NotImplementedError("Implement KthLargest.add")

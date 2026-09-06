@@ -1,9 +1,9 @@
 class MedianFinder:
     def __init__(self):
-        pass
+        raise NotImplementedError("Implement MedianFinder.__init__")
 
     def addNum(self, num: int) -> None:
-        pass
+        raise NotImplementedError("Implement MedianFinder.addNum")
 
     def findMedian(self) -> float:
-        return 0.0
+        raise NotImplementedError("Implement MedianFinder.findMedian")

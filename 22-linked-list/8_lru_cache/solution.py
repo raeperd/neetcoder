@@ -1,9 +1,9 @@
 class LRUCache:
     def __init__(self, capacity: int):
-        pass
+        raise NotImplementedError("Implement LRUCache.__init__")
 
     def get(self, key: int) -> int:
-        return -1
+        raise NotImplementedError("Implement LRUCache.get")
 
     def put(self, key: int, value: int) -> None:
-        pass
+        raise NotImplementedError("Implement LRUCache.put")

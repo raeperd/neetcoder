@@ -1,3 +1,3 @@
 class Solution:
     def getSum(self, a: int, b: int) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.getSum")

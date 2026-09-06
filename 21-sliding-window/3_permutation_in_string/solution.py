@@ -1,3 +1,3 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        return False
+        raise NotImplementedError("Implement Solution.checkInclusion")

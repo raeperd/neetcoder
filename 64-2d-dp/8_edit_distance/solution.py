@@ -1,3 +1,3 @@
 class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.minDistance")

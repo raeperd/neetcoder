@@ -1,3 +1,3 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.characterReplacement")

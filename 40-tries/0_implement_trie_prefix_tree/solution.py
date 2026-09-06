@@ -1,12 +1,12 @@
 class Trie:
     def __init__(self):
-        pass
+        raise NotImplementedError("Implement Trie.__init__")
 
     def insert(self, word: str) -> None:
-        pass
+        raise NotImplementedError("Implement Trie.insert")
 
     def search(self, word: str) -> bool:
-        return False
+        raise NotImplementedError("Implement Trie.search")
 
     def starts_with(self, prefix: str) -> bool:
-        return False
+        raise NotImplementedError("Implement Trie.starts_with")

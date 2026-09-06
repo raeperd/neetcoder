@@ -1,3 +1,3 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        return ""
+        raise NotImplementedError("Implement Solution.minWindow")

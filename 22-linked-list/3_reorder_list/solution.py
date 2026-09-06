@@ -9,4 +9,4 @@ class ListNode:
 
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
-        pass
+        raise NotImplementedError("Implement Solution.reorderList")

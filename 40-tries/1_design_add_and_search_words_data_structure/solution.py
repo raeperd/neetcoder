@@ -1,9 +1,9 @@
 class WordDictionary:
     def __init__(self):
-        pass
+        raise NotImplementedError("Implement WordDictionary.__init__")
 
     def add_word(self, word: str) -> None:
-        pass
+        raise NotImplementedError("Implement WordDictionary.add_word")
 
     def search(self, word: str) -> bool:
-        return False
+        raise NotImplementedError("Implement WordDictionary.search")

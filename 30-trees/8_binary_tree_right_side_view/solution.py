@@ -10,4 +10,4 @@ class TreeNode:
 
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        return []
+        raise NotImplementedError("Implement Solution.rightSideView")

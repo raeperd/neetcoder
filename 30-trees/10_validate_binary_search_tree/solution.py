@@ -10,4 +10,4 @@ class TreeNode:
 
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        return False
+        raise NotImplementedError("Implement Solution.isValidBST")

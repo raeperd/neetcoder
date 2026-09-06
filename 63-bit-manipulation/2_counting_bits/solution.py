@@ -3,4 +3,4 @@ from typing import List
 
 class Solution:
     def countBits(self, n: int) -> List[int]:
-        return []
+        raise NotImplementedError("Implement Solution.countBits")

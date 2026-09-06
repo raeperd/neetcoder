@@ -10,4 +10,4 @@ class TreeNode:
 
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.maxDepth")

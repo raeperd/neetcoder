@@ -10,4 +10,4 @@ class TreeNode:
 
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        return False
+        raise NotImplementedError("Implement Solution.isBalanced")

@@ -9,4 +9,4 @@ class ListNode:
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        return False
+        raise NotImplementedError("Implement Solution.hasCycle")

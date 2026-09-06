@@ -1,15 +1,15 @@
 class MinStack:
     def __init__(self):
-        pass
+        raise NotImplementedError("Implement MinStack.__init__")
 
     def push(self, val: int) -> None:
-        pass
+        raise NotImplementedError("Implement MinStack.push")
 
     def pop(self) -> None:
-        pass
+        raise NotImplementedError("Implement MinStack.pop")
 
     def top(self) -> int:
-        return 0
+        raise NotImplementedError("Implement MinStack.top")
 
     def getMin(self) -> int:
-        return 0
+        raise NotImplementedError("Implement MinStack.getMin")
