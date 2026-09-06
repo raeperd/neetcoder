@@ -1,3 +1,3 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.climbStairs")

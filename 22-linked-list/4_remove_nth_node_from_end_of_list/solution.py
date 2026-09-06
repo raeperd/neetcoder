@@ -9,4 +9,4 @@ class ListNode:
 
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-        return None
+        raise NotImplementedError("Implement Solution.removeNthFromEnd")

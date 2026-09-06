@@ -7,7 +7,7 @@ class TreeNode:
 
 class Codec:
     def serialize(self, root: TreeNode) -> str:
-        return ""
+        raise NotImplementedError("Implement Codec.serialize")
 
     def deserialize(self, data: str) -> TreeNode:
-        return None
+        raise NotImplementedError("Implement Codec.deserialize")

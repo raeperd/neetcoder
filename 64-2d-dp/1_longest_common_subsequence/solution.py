@@ -1,3 +1,3 @@
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.longestCommonSubsequence")

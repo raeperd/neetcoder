@@ -3,4 +3,4 @@ from typing import List
 
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.coinChange")

@@ -3,4 +3,4 @@ from typing import List
 
 class Solution:
     def alienOrder(self, words: List[str]) -> str:
-        return ""
+        raise NotImplementedError("Implement Solution.alienOrder")

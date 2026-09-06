@@ -10,4 +10,4 @@ class TreeNode:
 
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.kthSmallest")

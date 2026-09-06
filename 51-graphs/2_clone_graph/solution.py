@@ -9,4 +9,4 @@ class Node:
 
 class Solution:
     def cloneGraph(self, node: Optional[Node]) -> Optional[Node]:
-        return None
+        raise NotImplementedError("Implement Solution.cloneGraph")

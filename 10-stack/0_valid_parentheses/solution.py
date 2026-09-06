@@ -1,3 +1,3 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        return False
+        raise NotImplementedError("Implement Solution.isValid")

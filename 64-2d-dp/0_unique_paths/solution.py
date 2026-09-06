@@ -1,3 +1,3 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.uniquePaths")

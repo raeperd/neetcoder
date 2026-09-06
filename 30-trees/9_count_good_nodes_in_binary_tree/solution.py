@@ -7,4 +7,4 @@ class TreeNode:
 
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.goodNodes")

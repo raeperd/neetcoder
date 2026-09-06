@@ -3,4 +3,4 @@ from typing import List
 
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.minEatingSpeed")

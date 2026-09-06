@@ -10,4 +10,4 @@ class TreeNode:
 
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.diameterOfBinaryTree")

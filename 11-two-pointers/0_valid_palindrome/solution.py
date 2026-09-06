@@ -1,3 +1,3 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        return False
+        raise NotImplementedError("Implement Solution.isPalindrome")

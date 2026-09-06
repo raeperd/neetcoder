@@ -10,4 +10,4 @@ class TreeNode:
 
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-        return False
+        raise NotImplementedError("Implement Solution.isSameTree")

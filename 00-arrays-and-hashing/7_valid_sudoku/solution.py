@@ -3,4 +3,4 @@ from typing import List
 
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        return False
+        raise NotImplementedError("Implement Solution.isValidSudoku")

@@ -3,4 +3,4 @@ from typing import List
 
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        return False
+        raise NotImplementedError("Implement Solution.wordBreak")

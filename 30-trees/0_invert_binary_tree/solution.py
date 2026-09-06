@@ -10,4 +10,4 @@ class TreeNode:
 
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        return None
+        raise NotImplementedError("Implement Solution.invertTree")

@@ -3,4 +3,4 @@ from typing import List
 
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
-        return 0
+        raise NotImplementedError("Implement Solution.lengthOfLIS")
