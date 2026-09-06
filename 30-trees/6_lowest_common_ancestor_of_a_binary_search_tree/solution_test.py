@@ -31,7 +31,7 @@ def test_lca_example1():
     p = nodes[2]
     q = nodes[8]
     result = Solution().lowestCommonAncestor(root, p, q)
-    assert result.val == 6
+    assert result is nodes[6]
 
 
 def test_lca_example2():
@@ -39,7 +39,7 @@ def test_lca_example2():
     p = nodes[2]
     q = nodes[4]
     result = Solution().lowestCommonAncestor(root, p, q)
-    assert result.val == 2
+    assert result is nodes[2]
 
 
 def test_lca_example3():
@@ -47,4 +47,4 @@ def test_lca_example3():
     p = nodes[2]
     q = nodes[1]
     result = Solution().lowestCommonAncestor(root, p, q)
-    assert result.val == 2
+    assert result is nodes[2]

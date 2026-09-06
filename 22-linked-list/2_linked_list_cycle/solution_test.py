@@ -1,3 +1,5 @@
+import pytest
+
 from .solution import ListNode, Solution
 
 
@@ -32,3 +34,9 @@ def test_linked_list_cycle_2():
 def test_linked_list_cycle_3():
     head = create_cycle_list([1], -1)
     assert Solution().hasCycle(head) == False
+
+
+@pytest.mark.parametrize("values, pos, expected", [([], -1, False), ([1], 0, True), ([7, 7, 7], -1, False)])
+def test_cycle_boundaries(values, pos, expected):
+    head = create_cycle_list(values, pos)
+    assert Solution().hasCycle(head) == expected
