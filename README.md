@@ -28,6 +28,19 @@
 2. Implement in `solution.py`
 3. Run tests: `uv run pytest path/to/problem/`
 
+Starter methods raise `NotImplementedError` until you implement them. A failing
+first run is expected. The tests combine problem examples with selected contract
+and edge cases; passing them is local feedback, not a guarantee of online-judge
+acceptance.
+
+## Practice with AI
+
+Ask for a hint, a review of your attempt, or a mock interview. The included
+`practice-coach`, `solution-review`, and `mock-interview` skills guide the assistant
+through each workflow. See [AI setup and example prompts](docs/ai-practice.md).
+
+For changes to the template's stubs or tests, see [test maintenance](docs/testing.md).
+
 ## Project Structure
 
 ```
@@ -36,7 +49,7 @@
 │   ├── 0_contains_duplicate/
 │   │   ├── README.md          # Problem description
 │   │   ├── solution.py        # Your solution
-│   │   └── solution_test.py   # Tests from LeetCode
+│   │   └── solution_test.py   # Local practice tests
 │   └── ...
 ├── 10-stack/                  # 6 problems
 ├── 11-two-pointers/           # 5 problems
